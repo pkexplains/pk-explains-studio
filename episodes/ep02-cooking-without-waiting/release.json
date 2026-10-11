@@ -1,0 +1,64 @@
+{
+ "title": "Real moment + question | How X Works",
+ "hook": "",
+ "about": "",
+ "whos_who": [
+  [
+   "Mira, the chef",
+   "a PostgreSQL backend process"
+  ]
+ ],
+ "hashtags": [
+  "PostgreSQL",
+  "OperatingSystems",
+  "Databases"
+ ],
+ "tags": [
+  "postgresql",
+  "how databases work",
+  "animated explainer",
+  "PK Explains"
+ ],
+ "short": {
+  "title": "... #shorts",
+  "start": 3.0,
+  "end": 56.0,
+  "kicker": "",
+  "headline": ""
+ },
+ "pinned_comment": "",
+ "translations": {
+  "hi": {
+   "title": "",
+   "description": ""
+  },
+  "es": {
+   "title": "",
+   "description": ""
+  },
+  "pt-BR": {
+   "title": "",
+   "description": ""
+  },
+  "id": {
+   "title": "",
+   "description": ""
+  },
+  "fr": {
+   "title": "",
+   "description": ""
+  },
+  "de": {
+   "title": "",
+   "description": ""
+  },
+  "ja": {
+   "title": "",
+   "description": ""
+  },
+  "ar": {
+   "title": "",
+   "description": ""
+  }
+ }
+}

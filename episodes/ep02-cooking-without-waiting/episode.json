@@ -1,0 +1,11 @@
+{
+ "number": 2,
+ "slug": "ep02-cooking-without-waiting",
+ "title": "Cooking Without Waiting",
+ "lede": "A short animated film from PK Explains. Why PostgreSQL 18 stops standing in line for the disk. Story cut for everyone; switch on Engineer's cut for every technical detail.",
+ "logline": "Why PostgreSQL 18 stops standing in line for the disk.",
+ "topic": "PostgreSQL 18 asynchronous I/O: synchronous reads, OS read-ahead, io_method worker and io_uring, io_workers, I/O combining, read-ahead distance, effective_io_concurrency, limits (writes, cache hits)",
+ "next": "One in a Billion: how PostgreSQL finds one row among a billion (pages, heaps and B-trees)",
+ "year": 2026,
+ "youtube": {}
+}

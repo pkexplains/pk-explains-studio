@@ -102,6 +102,18 @@
    "speed": 1.0,
    "name": "The Recovery Chef",
    "plays": "the startup process (crash recovery)"
+  },
+  "runner": {
+   "voice": "hm_omega",
+   "speed": 1.03,
+   "name": "The Runner",
+   "plays": "an I/O worker process"
+  },
+  "loan_officer": {
+   "voice": "am_adam",
+   "speed": 1.0,
+   "name": "The Loan Officer",
+   "plays": "a person on Priya's phone"
   }
  },
  "rule": "A character's voice never changes once cast. New characters: pick an unused Kokoro voice, add here, keep it forever."

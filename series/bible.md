@@ -26,6 +26,10 @@ A restaurant kitchen at night, owned by the bank. Two companies work in it:
 | The counter | other sessions' work | Long counter with chefs |
 | The score bar (top of frame) | where the protagonist's data lives right now | FRIDGE / STOREROOM / NOTE tracker |
 | Emergency light | a power cut (never a black screen) | Deep blue wash, 45% |
+| Order tickets (ep 2) | read requests; one ticket can cover neighbouring pages (combined I/O) | Paper ticket, "p.43–50" |
+| The ticket hook (ep 2) | a backend's in-flight reads (read stream) | Brass hook by the chef's station |
+| The ticket rail and pickup shelf (ep 2) | io_uring submission and completion queues (`io_method = io_uring`, Linux) | Steel rail through the Manager's office hatch |
+| Storeroom hatches (ep 2) | the disk's parallel queues (NVMe) | Eight hatches in the storeroom wall, a clerk behind each |
 
 ## The cast (voices locked in series/cast.json)
 
@@ -41,6 +45,8 @@ A restaurant kitchen at night, owned by the bank. Two companies work in it:
 | The Helper | background writer (Engineer's cut) | Coral, headband | (not voiced yet) |
 | The Supervisor | checkpointer | Coral, cap, clipboard | am_eric |
 | The Courier | WAL sender (Engineer's cut) | Coral, cap, bag | (not voiced yet) |
+| The Runners (ep 2) | I/O worker processes (`io_method = worker`, `io_workers = 3`) | Coral, cap, small trolley; three of them | lead Runner hm_omega; others silent |
+| The Loan Officer (ep 2) | a person on Priya's phone (not a system part) | Never seen; phone EQ | am_adam |
 | The Cleaner | autovacuum | Coral, headband, broom | am_echo |
 | Extra chefs (e0, e1, e5) | other backends | Coral shades | am_liam, af_river |
 | Narrator | the storyteller | never seen | am_michael, directed |
@@ -68,4 +74,5 @@ for blackouts; the narrator waits for dialogue; music ducks under every line.
 | # | Title | Real moment | Topic | YouTube |
 |---|---|---|---|---|
 | 1 | The Kitchen That Never Forgets | Priya pays ₹200, power cut 1 ms later | processes, caches, MVCC, locks, WAL, recovery, checkpoints, vacuum, fsyncgate | v3bqCk8m6fw |
-| 2 | Cooking Without Waiting (teased) | | asynchronous I/O in PostgreSQL 18 | |
+| 2 | Cooking Without Waiting | Priya downloads her 12-month statement during a loan call | asynchronous I/O in PostgreSQL 18: worker, io_uring, read-ahead, combining | |
+| 3 | One in a Billion (teased) | | pages, heaps and B-trees | |
