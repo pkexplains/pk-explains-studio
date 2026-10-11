@@ -1,0 +1,94 @@
+[
+{
+"who": "loan_officer",
+"text": "Send me your last twelve months of statements."
+},
+{
+"who": "loan_officer",
+"text": "I'll stay on the line."
+},
+{
+"who": "priya",
+"text": "Sending it… now."
+},
+{
+"who": "loan_officer",
+"text": "Got it. That was quick."
+},
+{
+"who": "manager",
+"text": "Ask me first. Always."
+},
+{
+"who": "mira",
+"text": "A whole year of orders? Let's go."
+},
+{
+"who": "mira",
+"text": "Manager, page 43, please."
+},
+{
+"who": "manager",
+"text": "The storeroom again? Long walk."
+},
+{
+"who": "mira",
+"text": "Done. Page 44, please."
+},
+{
+"who": "manager",
+"text": "Forty-three, forty-four… I see where this is going."
+},
+{
+"who": "manager",
+"text": "Sixty-one? Twelve? Nobody told me that."
+},
+{
+"who": "arjun",
+"text": "Excuse me — has anyone seen my cashback?"
+},
+{
+"who": "manager",
+"text": "No lamp, no work."
+},
+{
+"who": "mira",
+"text": "Pages 43 to 50, please. I’ll keep working."
+},
+{
+"who": "runner",
+"text": "Forty-three to fifty. On it."
+},
+{
+"who": "runner",
+"text": "Always, boss."
+},
+{
+"who": "mira",
+"text": "Right. I'll ask further ahead."
+},
+{
+"who": "mira",
+"text": "Three on the rail!"
+},
+{
+"who": "mira",
+"text": "Thirty-two of thirty-two. Order up!"
+},
+{
+"who": "priya",
+"text": "…and still no cashback."
+},
+{
+"who": "supervisor",
+"text": "Writes still go the old way, I'm afraid."
+},
+{
+"who": "leela",
+"text": "Every account in the bank? Hooks, please."
+},
+{
+"who": "mira",
+"text": "Page 42… but how did I know it was page 42?"
+}
+]

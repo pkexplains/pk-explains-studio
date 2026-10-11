@@ -1,4 +1,348 @@
 {
- "pronounce": [],
- "direct": {}
+ "pronounce": [
+  [
+   "PostgreSQL 17",
+   "Postgres Q L seventeen"
+  ],
+  [
+   "\\b([Pp])ages 43 to 74\\b",
+   "\\1ages forty-three to seventy-four"
+  ],
+  [
+   "\\b([Pp])ages? 43 to 50\\b",
+   "\\1ages forty-three to fifty"
+  ],
+  [
+   "\\b([Pp])age 42\\b",
+   "\\1age forty-two"
+  ],
+  [
+   "\\b([Pp])age 43\\b",
+   "\\1age forty-three"
+  ],
+  [
+   "\\b([Pp])age 44\\b",
+   "\\1age forty-four"
+  ],
+  [
+   "\\b128 kilobytes\\b",
+   "a hundred and twenty-eight kilobytes"
+  ],
+  [
+   "\\bio_combine_limit\\b",
+   "eye-oh combine limit"
+  ],
+  [
+   "\\bio_method\\b",
+   "eye-oh method"
+  ],
+  [
+   "\\bio_workers\\b",
+   "eye-oh workers"
+  ],
+  [
+   "\\bio_uring\\b",
+   "eye-oh you-ring"
+  ],
+  [
+   "\\beffective_io_concurrency\\b",
+   "effective eye-oh concurrency"
+  ],
+  [
+   "\\bmaintenance_io_concurrency\\b",
+   "maintenance eye-oh concurrency"
+  ],
+  [
+   "\\bpg_aios\\b",
+   "P G A I O S"
+  ],
+  [
+   "\\bNVMe\\b",
+   "N V M E"
+  ],
+  [
+   "\\bAxboe\\b",
+   "Axboh"
+  ],
+  [
+   "\\bYavuz\\b",
+   "Yavooz"
+  ],
+  [
+   "\\bPlageman\\b",
+   "Plaigman"
+  ],
+  [
+   "\\b2019\\b",
+   "twenty nineteen"
+  ],
+  [
+   "\\b2023\\b",
+   "twenty twenty-three"
+  ],
+  [
+   "\\b2025\\b",
+   "twenty twenty-five"
+  ],
+  [
+   "\\bio_method to sync\\b",
+   "eye-oh method to sync"
+  ],
+  [
+   "\\bcashback\\b",
+   "cash back"
+  ],
+  [
+   "\\bFreund\\b",
+   "Froynd"
+  ]
+ ],
+ "direct": {
+  "Here's the twist. The bank's storeroom is exactly as slow as it was last night. Not one bit faster. And last night, the chef cooking for Priya spent most of her time asleep.": [
+   [
+    "Here's the twist.",
+    "hush",
+    480
+   ],
+   [
+    "The bank's storeroom is exactly as slow as it was last night.",
+    "grave",
+    300
+   ],
+   [
+    "Not one bit faster.",
+    "beat",
+    650
+   ],
+   [
+    "And last night, the chef cooking for Priya spent most of her time asleep.",
+    "hush",
+    0
+   ]
+  ],
+  "So how do you cook faster, when the slowest part of the kitchen hasn't changed at all?": [
+   [
+    "So how do you cook faster,",
+    "wonder",
+    250
+   ],
+   [
+    "when the slowest part of the kitchen hasn't changed at all?",
+    "wonder",
+    0
+   ]
+  ],
+  "Ask. Sleep. Wake. Cook for a blink. Ask again. Thirty-two times.": [
+   [
+    "Ask.",
+    "beat",
+    380
+   ],
+   [
+    "Sleep.",
+    "beat",
+    380
+   ],
+   [
+    "Wake.",
+    "beat",
+    380
+   ],
+   [
+    "Cook for a blink.",
+    "beat",
+    420
+   ],
+   [
+    "Ask again.",
+    "beat",
+    500
+   ],
+   [
+    "Thirty-two times.",
+    "grave",
+    0
+   ]
+  ],
+  "Mira is the fastest cook in the building, and she's spending almost the whole order asleep. Who is working while she sleeps?": [
+   [
+    "Mira is the fastest cook in the building,",
+    "warm",
+    200
+   ],
+   [
+    "and she's spending almost the whole order asleep.",
+    "grave",
+    600
+   ],
+   [
+    "Who is working while she sleeps?",
+    "hush",
+    0
+   ]
+  ],
+  "And Mira sends one request at a time. One hatch busy. Seven clerks idle.": [
+   [
+    "And Mira sends one request at a time.",
+    "warm",
+    400
+   ],
+   [
+    "One hatch busy.",
+    "beat",
+    350
+   ],
+   [
+    "Seven clerks idle.",
+    "beat",
+    0
+   ]
+  ],
+  "That's the catch. Only Mira can read her order slip. The Manager can only guess from the outside.": [
+   [
+    "That's the catch.",
+    "bright",
+    450
+   ],
+   [
+    "Only Mira can read her order slip.",
+    "warm",
+    300
+   ],
+   [
+    "The Manager can only guess from the outside.",
+    "warm",
+    0
+   ]
+  ],
+  "Same kitchen. Same storeroom. Same order. But this kitchen runs PostgreSQL 18.": [
+   [
+    "Same kitchen.",
+    "hush",
+    300
+   ],
+   [
+    "Same storeroom.",
+    "hush",
+    300
+   ],
+   [
+    "Same order.",
+    "hush",
+    550
+   ],
+   [
+    "But this kitchen runs PostgreSQL 18.",
+    "bright",
+    0
+   ]
+  ],
+  "Look who’s asleep now. Somebody still waits for the storeroom. It just isn’t the chef.": [
+   [
+    "Look who’s asleep now.",
+    "bright",
+    600
+   ],
+   [
+    "Somebody still waits for the storeroom.",
+    "wonder",
+    350
+   ],
+   [
+    "It just isn’t the chef.",
+    "wonder",
+    0
+   ]
+  ],
+  "So. The storeroom is just as slow. But Mira asks before she needs a page, the Runners do the waiting, and many hatches work at once.": [
+   [
+    "So.",
+    "beat",
+    400
+   ],
+   [
+    "The storeroom is just as slow.",
+    "warm",
+    350
+   ],
+   [
+    "But Mira asks before she needs a page,",
+    "bright",
+    150
+   ],
+   [
+    "the Runners do the waiting,",
+    "bright",
+    150
+   ],
+   [
+    "and many hatches work at once.",
+    "wonder",
+    0
+   ]
+  ],
+  "Same kitchen. Same storeroom. Same thirty-two pages.": [
+   [
+    "Same kitchen.",
+    "hush",
+    320
+   ],
+   [
+    "Same storeroom.",
+    "hush",
+    320
+   ],
+   [
+    "Same thirty-two pages.",
+    "hush",
+    0
+   ]
+  ],
+  "The storeroom didn't get faster. Mira just stopped waiting for it.": [
+   [
+    "The storeroom didn't get faster.",
+    "warm",
+    550
+   ],
+   [
+    "Mira just stopped waiting for it.",
+    "wonder",
+    0
+   ]
+  ],
+  "It was fast, and it was new, and attackers loved it. In 2023 Google said most of the Linux break-ins sent to its bug bounty went through the rail, and switched it off on its own servers. That's one reason the rail isn't in every kitchen, and why the Runners, who work everywhere, are PostgreSQL's default.": [
+   [
+    "It was fast, and it was new,",
+    "warm",
+    200
+   ],
+   [
+    "and attackers loved it.",
+    "grave",
+    500
+   ],
+   [
+    "In 2023 Google said most of the Linux break-ins sent to its bug bounty went through the rail, and switched it off on its own servers.",
+    "grave",
+    450
+   ],
+   [
+    "That's one reason the rail isn't in every kitchen, and why the Runners, who work everywhere, are PostgreSQL's default.",
+    "warm",
+    0
+   ]
+  ],
+  "How do you find one customer among a billion, in three or four trips to the storeroom?": [
+   [
+    "How do you find one customer among a billion,",
+    "wonder",
+    200
+   ],
+   [
+    "in three or four trips to the storeroom?",
+    "hush",
+    0
+   ]
+  ]
+ }
 }

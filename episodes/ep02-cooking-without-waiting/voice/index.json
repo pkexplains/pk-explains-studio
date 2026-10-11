@@ -1,0 +1,1367 @@
+{
+"This is Priya. Yes, the same Priya. Her train ticket from last night is the first line on her statement. Tonight she's applying for a loan, and the man on the phone wants that statement right now.": {
+"f": "af23cdb03b.mp3",
+"d": 13.248,
+"kind": "n",
+"direction": [
+[
+"This is Priya.",
+"beat",
+380
+],
+[
+"Yes, the same Priya.",
+"beat",
+380
+],
+[
+"Her train ticket from last night is the first line on her statement.",
+"warm",
+260
+],
+[
+"Tonight she's applying for a loan, and the man on the phone wants that statement right now.",
+"warm",
+0
+]
+],
+"key": "af23cdb03b"
+},
+"Here's the twist. The bank's storeroom is exactly as slow as it was last night. Not one bit faster. And last night, the chef cooking for Priya spent most of her time asleep.": {
+"f": "488aa2c0af.mp3",
+"d": 13.248,
+"kind": "n",
+"direction": [
+[
+"Here's the twist.",
+"hush",
+480
+],
+[
+"The bank's storeroom is exactly as slow as it was last night.",
+"grave",
+300
+],
+[
+"Not one bit faster.",
+"beat",
+650
+],
+[
+"And last night, the chef cooking for Priya spent most of her time asleep.",
+"hush",
+0
+]
+],
+"key": "488aa2c0af"
+},
+"So how do you cook faster, when the slowest part of the kitchen hasn't changed at all?": {
+"f": "149b3a43aa.mp3",
+"d": 5.4,
+"kind": "n",
+"direction": [
+[
+"So how do you cook faster,",
+"wonder",
+250
+],
+[
+"when the slowest part of the kitchen hasn't changed at all?",
+"wonder",
+0
+]
+],
+"key": "149b3a43aa"
+},
+"Welcome back to the kitchen. If you missed last night: four work lamps are the computer's processors, the fridge is its memory, and the storeroom is the disk. The Manager runs the building.": {
+"f": "d340231648.mp3",
+"d": 12.216,
+"kind": "n",
+"direction": [
+[
+"Welcome back to the kitchen.",
+"warm",
+260
+],
+[
+"If you missed last night: four work lamps are the computer's processors, the fridge is its memory, and the storeroom is the disk.",
+"warm",
+260
+],
+[
+"The Manager runs the building.",
+"warm",
+0
+]
+],
+"key": "d340231648"
+},
+"The Host hands Priya's order to a chef. Tonight's chef is Mira again.": {
+"f": "961ea5aaf1.mp3",
+"d": 4.536,
+"kind": "n",
+"direction": [
+[
+"The Host hands Priya's order to a chef.",
+"warm",
+260
+],
+[
+"Tonight's chef is Mira again.",
+"warm",
+0
+]
+],
+"key": "961ea5aaf1"
+},
+"Last night, Mira needed one page. Tonight she needs thirty-two. Priya's year of orders sits on pages 43 to 74, right next door to her account on page 42.": {
+"f": "4539cc7686.mp3",
+"d": 12.648,
+"kind": "n",
+"direction": [
+[
+"Last night, Mira needed one page.",
+"warm",
+260
+],
+[
+"Tonight she needs thirty-two.",
+"beat",
+380
+],
+[
+"Priya's year of orders sits on pages 43 to 74, right next door to her account on page 42.",
+"warm",
+0
+]
+],
+"key": "4539cc7686"
+},
+"Keep your eye on the score. Pages ready, and whether Mira is awake.": {
+"f": "f63d6e45db.mp3",
+"d": 4.704,
+"kind": "n",
+"direction": [
+[
+"Keep your eye on the score.",
+"warm",
+260
+],
+[
+"Pages ready, and whether Mira is awake.",
+"warm",
+0
+]
+],
+"key": "f63d6e45db"
+},
+"Remember this walk? If every move under a lamp took one second, one trip to the storeroom would take days.": {
+"f": "30140d3576.mp3",
+"d": 7.488,
+"kind": "n",
+"direction": [
+[
+"Remember this walk?",
+"hush",
+480
+],
+[
+"If every move under a lamp took one second, one trip to the storeroom would take days.",
+"warm",
+0
+]
+],
+"key": "30140d3576"
+},
+"Ask. Sleep. Wake. Cook for a blink. Ask again. Thirty-two times.": {
+"f": "7496cf26e0.mp3",
+"d": 7.68,
+"kind": "n",
+"direction": [
+[
+"Ask.",
+"beat",
+380
+],
+[
+"Sleep.",
+"beat",
+380
+],
+[
+"Wake.",
+"beat",
+380
+],
+[
+"Cook for a blink.",
+"beat",
+420
+],
+[
+"Ask again.",
+"beat",
+500
+],
+[
+"Thirty-two times.",
+"grave",
+0
+]
+],
+"key": "7496cf26e0"
+},
+"Computer people call this synchronous reading. It means: one at a time, and wait for each one.": {
+"f": "acb426d79f.mp3",
+"d": 5.592,
+"kind": "n",
+"direction": [
+[
+"Computer people call this synchronous reading.",
+"aside",
+260
+],
+[
+"It means: one at a time, and wait for each one.",
+"warm",
+0
+]
+],
+"key": "acb426d79f"
+},
+"Mira is the fastest cook in the building, and she's spending almost the whole order asleep. Who is working while she sleeps?": {
+"f": "3d98106701.mp3",
+"d": 8.04,
+"kind": "n",
+"direction": [
+[
+"Mira is the fastest cook in the building,",
+"warm",
+200
+],
+[
+"and she's spending almost the whole order asleep.",
+"grave",
+600
+],
+[
+"Who is working while she sleeps?",
+"hush",
+0
+]
+],
+"key": "3d98106701"
+},
+"Let's look inside the storeroom. It isn't one long shelf with one clerk. A modern disk is more like this: many hatches, and a clerk behind every one, all able to fetch at the same time.": {
+"f": "3c9470a3e3.mp3",
+"d": 12.072,
+"kind": "n",
+"direction": [
+[
+"Let's look inside the storeroom.",
+"warm",
+260
+],
+[
+"It isn't one long shelf with one clerk.",
+"warm",
+260
+],
+[
+"A modern disk is more like this: many hatches, and a clerk behind every one, all able to fetch at the same time.",
+"warm",
+0
+]
+],
+"key": "3c9470a3e3"
+},
+"And Mira sends one request at a time. One hatch busy. Seven clerks idle.": {
+"f": "da8a82d9b8.mp3",
+"d": 5.928,
+"kind": "n",
+"direction": [
+[
+"And Mira sends one request at a time.",
+"warm",
+400
+],
+[
+"One hatch busy.",
+"beat",
+350
+],
+[
+"Seven clerks idle.",
+"beat",
+0
+]
+],
+"key": "da8a82d9b8"
+},
+"The slow part isn't only the walk. It's that we're using one hatch out of eight.": {
+"f": "0ac7279e19.mp3",
+"d": 4.848,
+"kind": "n",
+"direction": [
+[
+"The slow part isn't only the walk.",
+"warm",
+260
+],
+[
+"It's that we're using one hatch out of eight.",
+"warm",
+0
+]
+],
+"key": "0ac7279e19"
+},
+"The Manager isn't silly. When someone reads pages in a straight line, he guesses the next ones and fetches them early. It's called read-ahead, and for years PostgreSQL leaned on it.": {
+"f": "53ac40b29f.mp3",
+"d": 11.952,
+"kind": "n",
+"direction": [
+[
+"The Manager isn't silly.",
+"beat",
+380
+],
+[
+"When someone reads pages in a straight line, he guesses the next ones and fetches them early.",
+"warm",
+260
+],
+[
+"It's called read-ahead, and for years PostgreSQL leaned on it.",
+"aside",
+0
+]
+],
+"key": "53ac40b29f"
+},
+"That's the catch. Only Mira can read her order slip. The Manager can only guess from the outside.": {
+"f": "95ad08d033.mp3",
+"d": 6.552,
+"kind": "n",
+"direction": [
+[
+"That's the catch.",
+"bright",
+450
+],
+[
+"Only Mira can read her order slip.",
+"warm",
+300
+],
+[
+"The Manager can only guess from the outside.",
+"warm",
+0
+]
+],
+"key": "95ad08d033"
+},
+"So, what if we hired a chef for every page? Thirty-two chefs, thirty-two trips, all at once.": {
+"f": "42325df569.mp3",
+"d": 6.312,
+"kind": "n",
+"direction": [
+[
+"So, what if we hired a chef for every page?",
+"warm",
+480
+],
+[
+"Thirty-two chefs, thirty-two trips, all at once.",
+"warm",
+0
+]
+],
+"key": "42325df569"
+},
+"Arjun is still looking for the cashback that never happened last night. Thirty-two chefs, four lamps. You know the rule.": {
+"f": "ce6b4cae44.mp3",
+"d": 7.92,
+"kind": "n",
+"direction": [
+[
+"Arjun is still looking for the cashback that never happened last night.",
+"warm",
+260
+],
+[
+"Thirty-two chefs, four lamps.",
+"beat",
+380
+],
+[
+"You know the rule.",
+"beat",
+0
+]
+],
+"key": "ce6b4cae44"
+},
+"Every chef costs memory, and they spend their night queueing for lamps. More chefs isn't the answer.": {
+"f": "5f818be90b.mp3",
+"d": 6.168,
+"kind": "n",
+"direction": [
+[
+"Every chef costs memory, and they spend their night queueing for lamps.",
+"warm",
+260
+],
+[
+"More chefs isn't the answer.",
+"warm",
+0
+]
+],
+"key": "5f818be90b"
+},
+"So we need one chef who never stops cooking, and a storeroom with every hatch busy. Can we have both?": {
+"f": "103462b58d.mp3",
+"d": 6.84,
+"kind": "n",
+"direction": [
+[
+"So we need one chef who never stops cooking, and a storeroom with every hatch busy.",
+"warm",
+260
+],
+[
+"Can we have both?",
+"beat",
+0
+]
+],
+"key": "103462b58d"
+},
+"Same kitchen. Same storeroom. Same order. But this kitchen runs PostgreSQL 18.": {
+"f": "f694a16553.mp3",
+"d": 7.008,
+"kind": "n",
+"direction": [
+[
+"Same kitchen.",
+"hush",
+300
+],
+[
+"Same storeroom.",
+"hush",
+300
+],
+[
+"Same order.",
+"hush",
+550
+],
+[
+"But this kitchen runs PostgreSQL 18.",
+"bright",
+0
+]
+],
+"key": "f694a16553"
+},
+"Instead of asking and sleeping, Mira writes a ticket for the pages she’ll need next, hangs it up, and carries on. Computer people call this asynchronous reading. Ask now, collect later.": {
+"f": "73c529b0c8.mp3",
+"d": 12.24,
+"kind": "n",
+"direction": [
+[
+"Instead of asking and sleeping, Mira writes a ticket for the pages she’ll need next, hangs it up, and carries on.",
+"warm",
+260
+],
+[
+"Computer people call this asynchronous reading.",
+"aside",
+260
+],
+[
+"Ask now, collect later.",
+"beat",
+0
+]
+],
+"key": "73c529b0c8"
+},
+"Neighbouring pages go on one ticket, and come back in one box.": {
+"f": "a4efbe1db3.mp3",
+"d": 4.416,
+"kind": "n",
+"direction": [
+[
+"Neighbouring pages go on one ticket, and come back in one box.",
+"warm",
+0
+]
+],
+"key": "a4efbe1db3"
+},
+"Meet the Runners. There are three of them, and their whole job is to take tickets off the hooks and fetch what’s on them.": {
+"f": "830da7f787.mp3",
+"d": 7.488,
+"kind": "n",
+"direction": [
+[
+"Meet the Runners.",
+"beat",
+380
+],
+[
+"There are three of them, and their whole job is to take tickets off the hooks and fetch what’s on them.",
+"warm",
+0
+]
+],
+"key": "830da7f787"
+},
+"The Runners still ask the Manager. Still wait for the storeroom.": {
+"f": "d0d6e54a2a.mp3",
+"d": 3.864,
+"kind": "n",
+"direction": [
+[
+"The Runners still ask the Manager.",
+"warm",
+260
+],
+[
+"Still wait for the storeroom.",
+"warm",
+0
+]
+],
+"key": "d0d6e54a2a"
+},
+"And because several tickets are out at once, several hatches light up. The clerks finally have work.": {
+"f": "9c2d7d0d57.mp3",
+"d": 6.432,
+"kind": "n",
+"direction": [
+[
+"And because several tickets are out at once, several hatches light up.",
+"warm",
+260
+],
+[
+"The clerks finally have work.",
+"warm",
+0
+]
+],
+"key": "9c2d7d0d57"
+},
+"Look who’s asleep now. Somebody still waits for the storeroom. It just isn’t the chef.": {
+"f": "0be292cee1.mp3",
+"d": 6.072,
+"kind": "n",
+"direction": [
+[
+"Look who’s asleep now.",
+"bright",
+600
+],
+[
+"Somebody still waits for the storeroom.",
+"wonder",
+350
+],
+[
+"It just isn’t the chef.",
+"wonder",
+0
+]
+],
+"key": "0be292cee1"
+},
+"Sometimes Mira cooks faster than the boxes arrive, and she catches up with a ticket still out. Then she waits, just for that one.": {
+"f": "14ec4f1655.mp3",
+"d": 8.136,
+"kind": "n",
+"direction": [
+[
+"Sometimes Mira cooks faster than the boxes arrive, and she catches up with a ticket still out.",
+"warm",
+260
+],
+[
+"Then she waits, just for that one.",
+"warm",
+0
+]
+],
+"key": "14ec4f1655"
+},
+"So she asks further ahead. The more she has to wait, the further ahead she asks.": {
+"f": "0ed5c52a66.mp3",
+"d": 5.064,
+"kind": "n",
+"direction": [
+[
+"So she asks further ahead.",
+"warm",
+260
+],
+[
+"The more she has to wait, the further ahead she asks.",
+"warm",
+0
+]
+],
+"key": "0ed5c52a66"
+},
+"Some kitchens do it another way. On Linux, the Manager can put up a ticket rail right through his hatch.": {
+"f": "e3d2911c1b.mp3",
+"d": 6.912,
+"kind": "n",
+"direction": [
+[
+"Some kitchens do it another way.",
+"warm",
+260
+],
+[
+"On Linux, the Manager can put up a ticket rail right through his hatch.",
+"warm",
+0
+]
+],
+"key": "e3d2911c1b"
+},
+"Mira clips her tickets on herself, knocks once for the lot, and picks up the boxes as they come back, in whatever order they finish. No Runners needed.": {
+"f": "a115703c72.mp3",
+"d": 10.176,
+"kind": "n",
+"direction": [
+[
+"Mira clips her tickets on herself, knocks once for the lot, and picks up the boxes as they come back, in whatever order they finish.",
+"warm",
+260
+],
+[
+"No Runners needed.",
+"beat",
+0
+]
+],
+"key": "a115703c72"
+},
+"So. The storeroom is just as slow. But Mira asks before she needs a page, the Runners do the waiting, and many hatches work at once.": {
+"f": "06c5ccedaf.mp3",
+"d": 9.12,
+"kind": "n",
+"direction": [
+[
+"So.",
+"beat",
+400
+],
+[
+"The storeroom is just as slow.",
+"warm",
+350
+],
+[
+"But Mira asks before she needs a page,",
+"bright",
+150
+],
+[
+"the Runners do the waiting,",
+"bright",
+150
+],
+[
+"and many hatches work at once.",
+"wonder",
+0
+]
+],
+"key": "06c5ccedaf"
+},
+"Same kitchen. Same storeroom. Same thirty-two pages.": {
+"f": "a5d31c0a08.mp3",
+"d": 4.896,
+"kind": "n",
+"direction": [
+[
+"Same kitchen.",
+"hush",
+320
+],
+[
+"Same storeroom.",
+"hush",
+320
+],
+[
+"Same thirty-two pages.",
+"hush",
+0
+]
+],
+"key": "a5d31c0a08"
+},
+"The storeroom didn't get faster. Mira just stopped waiting for it.": {
+"f": "034f00a45f.mp3",
+"d": 4.344,
+"kind": "n",
+"direction": [
+[
+"The storeroom didn't get faster.",
+"warm",
+550
+],
+[
+"Mira just stopped waiting for it.",
+"wonder",
+0
+]
+],
+"key": "034f00a45f"
+},
+"Does this make everything faster? Not quite. Three orders.": {
+"f": "d306c14478.mp3",
+"d": 5.184,
+"kind": "n",
+"direction": [
+[
+"Does this make everything faster?",
+"warm",
+480
+],
+[
+"Not quite.",
+"beat",
+380
+],
+[
+"Three orders.",
+"beat",
+0
+]
+],
+"key": "d306c14478"
+},
+"One: Priya checks her balance. Page 42 is already in the fridge. Nothing to fetch, nothing to ask ahead. No change.": {
+"f": "a25f89fb6f.mp3",
+"d": 8.688,
+"kind": "n",
+"direction": [
+[
+"One: Priya checks her balance.",
+"warm",
+260
+],
+[
+"Page 42 is already in the fridge.",
+"warm",
+260
+],
+[
+"Nothing to fetch, nothing to ask ahead.",
+"warm",
+260
+],
+[
+"No change.",
+"beat",
+0
+]
+],
+"key": "a25f89fb6f"
+},
+"Two: writing. In PostgreSQL 18, saving to the notebook and the storeroom still waits the old way. The tickets are coming for writes too, in later versions.": {
+"f": "9ec9e57c1b.mp3",
+"d": 11.112,
+"kind": "n",
+"direction": [
+[
+"Two: writing.",
+"beat",
+380
+],
+[
+"In PostgreSQL 18, saving to the notebook and the storeroom still waits the old way.",
+"warm",
+260
+],
+[
+"The tickets are coming for writes too, in later versions.",
+"warm",
+0
+]
+],
+"key": "9ec9e57c1b"
+},
+"Three: the big reads. Whole tables, scattered rows, and the Cleaner's sweep. That's where it pays.": {
+"f": "eeb973f7cf.mp3",
+"d": 6.72,
+"kind": "n",
+"direction": [
+[
+"Three: the big reads.",
+"beat",
+380
+],
+[
+"Whole tables, scattered rows, and the Cleaner's sweep.",
+"warm",
+260
+],
+[
+"That's where it pays.",
+"beat",
+0
+]
+],
+"key": "eeb973f7cf"
+},
+"The ticket rail is real. A Linux developer named Jens Axboe built it, and it arrived in 2019.": {
+"f": "0df1c4f1bd.mp3",
+"d": 7.176,
+"kind": "n",
+"direction": [
+[
+"The ticket rail is real.",
+"warm",
+260
+],
+[
+"A Linux developer named Jens Axboe built it, and it arrived in 2019.",
+"warm",
+0
+]
+],
+"key": "0df1c4f1bd"
+},
+"It was fast, and it was new, and attackers loved it. In 2023 Google said most of the Linux break-ins sent to its bug bounty went through the rail, and switched it off on its own servers. That's one reason the rail isn't in every kitchen, and why the Runners, who work everywhere, are PostgreSQL's default.": {
+"f": "46a59b2163.mp3",
+"d": 22.584,
+"kind": "n",
+"direction": [
+[
+"It was fast, and it was new,",
+"warm",
+200
+],
+[
+"and attackers loved it.",
+"grave",
+500
+],
+[
+"In 2023 Google said most of the Linux break-ins sent to its bug bounty went through the rail, and switched it off on its own servers.",
+"grave",
+450
+],
+[
+"That's one reason the rail isn't in every kitchen, and why the Runners, who work everywhere, are PostgreSQL's default.",
+"warm",
+0
+]
+],
+"key": "46a59b2163"
+},
+"Teaching a kitchen that has cooked for decades to stop waiting took years of work. In September 2025, PostgreSQL 18 shipped it.": {
+"f": "be6eb09204.mp3",
+"d": 9.696,
+"kind": "n",
+"direction": [
+[
+"Teaching a kitchen that has cooked for decades to stop waiting took years of work.",
+"warm",
+260
+],
+[
+"In September 2025, PostgreSQL 18 shipped it.",
+"warm",
+0
+]
+],
+"key": "be6eb09204"
+},
+"Every character tonight was a real part of your computer, and of PostgreSQL.": {
+"f": "08c9b6701d.mp3",
+"d": 5.256,
+"kind": "n",
+"direction": [
+[
+"Every character tonight was a real part of your computer, and of PostgreSQL.",
+"warm",
+0
+]
+],
+"key": "08c9b6701d"
+},
+"One more thing. Tonight, Priya's pages were easy to find: right next door to page 42. But the bank has a billion customers.": {
+"f": "4844ea120a.mp3",
+"d": 9.36,
+"kind": "n",
+"direction": [
+[
+"One more thing.",
+"beat",
+380
+],
+[
+"Tonight, Priya's pages were easy to find: right next door to page 42.",
+"warm",
+260
+],
+[
+"But the bank has a billion customers.",
+"warm",
+0
+]
+],
+"key": "4844ea120a"
+},
+"How do you find one customer among a billion, in three or four trips to the storeroom?": {
+"f": "bad9f4ca06.mp3",
+"d": 5.352,
+"kind": "n",
+"direction": [
+[
+"How do you find one customer among a billion,",
+"wonder",
+200
+],
+[
+"in three or four trips to the storeroom?",
+"hush",
+0
+]
+],
+"key": "bad9f4ca06"
+},
+"Strictly, every new connection gets a brand new chef with a new process number. In our kitchen, she's always played by Mira.": {
+"f": "8db9d03daa.mp3",
+"d": 8.136,
+"kind": "n",
+"direction": [
+[
+"Strictly, every new connection gets a brand new chef with a new process number.",
+"warm",
+260
+],
+[
+"In our kitchen, she's always played by Mira.",
+"warm",
+0
+]
+],
+"key": "8db9d03daa"
+},
+"A real bank would usually find Priya's rows with an index. We read them straight through here, like a whole-table read. If her rows were scattered, PostgreSQL 18 would use a bitmap heap scan and read ahead the same way.": {
+"f": "1af8a8c136.mp3",
+"d": 14.952,
+"kind": "n",
+"direction": [
+[
+"A real bank would usually find Priya's rows with an index.",
+"warm",
+260
+],
+[
+"We read them straight through here, like a whole-table read.",
+"warm",
+260
+],
+[
+"If her rows were scattered, PostgreSQL 18 would use a bitmap heap scan and read ahead the same way.",
+"warm",
+0
+]
+],
+"key": "1af8a8c136"
+},
+"A modern NVMe drive allows up to sixty-five thousand queues, each holding up to sixty-five thousand requests.": {
+"f": "cc43a35540.mp3",
+"d": 9.144,
+"kind": "n",
+"direction": [
+[
+"A modern NVMe drive allows up to sixty-five thousand queues, each holding up to sixty-five thousand requests.",
+"warm",
+0
+]
+],
+"key": "cc43a35540"
+},
+"Even with his guess, Mira still knocks on his door for every page. Since PostgreSQL 17 she can ask for neighbouring pages in one knock. And older versions could leave him a note: you'll want these soon.": {
+"f": "39680ae057.mp3",
+"d": 14.208,
+"kind": "n",
+"direction": [
+[
+"Even with his guess, Mira still knocks on his door for every page.",
+"warm",
+260
+],
+[
+"Since PostgreSQL 17 she can ask for neighbouring pages in one knock.",
+"warm",
+260
+],
+[
+"And older versions could leave him a note: you'll want these soon.",
+"warm",
+0
+]
+],
+"key": "39680ae057"
+},
+"One ticket can cover up to 128 kilobytes by default. That's sixteen pages. The setting is io_combine_limit.": {
+"f": "f2d7543a7d.mp3",
+"d": 9.096,
+"kind": "n",
+"direction": [
+[
+"One ticket can cover up to 128 kilobytes by default.",
+"warm",
+260
+],
+[
+"That's sixteen pages.",
+"beat",
+380
+],
+[
+"The setting is io_combine_limit.",
+"beat",
+0
+]
+],
+"key": "f2d7543a7d"
+},
+"This is io_method equals worker, the default in PostgreSQL 18. The number of Runners is io_workers. Three by default.": {
+"f": "deb0c50cac.mp3",
+"d": 9.408,
+"kind": "n",
+"direction": [
+[
+"This is io_method equals worker, the default in PostgreSQL 18.",
+"warm",
+260
+],
+[
+"The number of Runners is io_workers.",
+"warm",
+260
+],
+[
+"Three by default.",
+"beat",
+0
+]
+],
+"key": "deb0c50cac"
+},
+"The pages land straight on the company shelf, shared buffers, where any chef can use them. The Manager may keep his own copy too.": {
+"f": "e8b2297614.mp3",
+"d": 8.28,
+"kind": "n",
+"direction": [
+[
+"The pages land straight on the company shelf, shared buffers, where any chef can use them.",
+"warm",
+260
+],
+[
+"The Manager may keep his own copy too.",
+"warm",
+0
+]
+],
+"key": "e8b2297614"
+},
+"The real rule: she starts by asking one page ahead, and each time she has to wait, she asks twice as far, up to a limit. When pages are already in the fridge, she eases off.": {
+"f": "2f49a74f54.mp3",
+"d": 11.88,
+"kind": "n",
+"direction": [
+[
+"The real rule: she starts by asking one page ahead, and each time she has to wait, she asks twice as far, up to a limit.",
+"warm",
+260
+],
+[
+"When pages are already in the fridge, she eases off.",
+"warm",
+0
+]
+],
+"key": "2f49a74f54"
+},
+"The limit on tickets out at once is effective_io_concurrency, sixteen by default in PostgreSQL 18. Vacuum uses maintenance_io_concurrency.": {
+"f": "f6def449a4.mp3",
+"d": 11.4,
+"kind": "n",
+"direction": [
+[
+"The limit on tickets out at once is effective_io_concurrency, sixteen by default in PostgreSQL 18.",
+"warm",
+260
+],
+[
+"Vacuum uses maintenance_io_concurrency.",
+"beat",
+0
+]
+],
+"key": "f6def449a4"
+},
+"This is io_method equals io_uring. Two rings sit in memory both sides can see: one for requests, one for results.": {
+"f": "683234da34.mp3",
+"d": 8.568,
+"kind": "n",
+"direction": [
+[
+"This is io_method equals io_uring.",
+"warm",
+260
+],
+[
+"Two rings sit in memory both sides can see: one for requests, one for results.",
+"warm",
+0
+]
+],
+"key": "683234da34"
+},
+"The rail even has a mode where a helper in the Manager's office watches it, so there's no knock at all. The price: that helper keeps a lamp busy while it watches.": {
+"f": "7294c25f87.mp3",
+"d": 10.44,
+"kind": "n",
+"direction": [
+[
+"The rail even has a mode where a helper in the Manager's office watches it, so there's no knock at all.",
+"warm",
+260
+],
+[
+"The price: that helper keeps a lamp busy while it watches.",
+"warm",
+0
+]
+],
+"key": "7294c25f87"
+},
+"PostgreSQL's own tests showed reads up to three times faster in some cases. Your mileage depends on your storage.": {
+"f": "42c095eb46.mp3",
+"d": 8.376,
+"kind": "n",
+"direction": [
+[
+"PostgreSQL's own tests showed reads up to three times faster in some cases.",
+"warm",
+260
+],
+[
+"Your mileage depends on your storage.",
+"warm",
+0
+]
+],
+"key": "42c095eb46"
+},
+"To see the tickets in flight, there’s a new view: pg_aios. To get the old behaviour back, set io_method to sync.": {
+"f": "ff02b553a1.mp3",
+"d": 8.4,
+"kind": "n",
+"direction": [
+[
+"To see the tickets in flight, there’s a new view: pg_aios.",
+"warm",
+260
+],
+[
+"To get the old behaviour back, set io_method to sync.",
+"warm",
+0
+]
+],
+"key": "ff02b553a1"
+},
+"The release notes credit Andres Freund, Thomas Munro, Nazir Bilal Yavuz and Melanie Plageman.": {
+"f": "1a67ac90ca.mp3",
+"d": 6.768,
+"kind": "n",
+"direction": [
+[
+"The release notes credit Andres Freund, Thomas Munro, Nazir Bilal Yavuz and Melanie Plageman.",
+"warm",
+0
+]
+],
+"key": "1a67ac90ca"
+},
+"@loan_officer|Send me your last twelve months of statements.": {
+"f": "3faacdf366.mp3",
+"d": 2.28,
+"kind": "d",
+"voice": "am_adam",
+"key": "3faacdf366"
+},
+"@loan_officer|I'll stay on the line.": {
+"f": "b57ef84eae.mp3",
+"d": 1.368,
+"kind": "d",
+"voice": "am_adam",
+"key": "b57ef84eae"
+},
+"@priya|Sending it… now.": {
+"f": "d975422e0a.mp3",
+"d": 1.272,
+"kind": "d",
+"voice": "hf_alpha",
+"key": "d975422e0a"
+},
+"@loan_officer|Got it. That was quick.": {
+"f": "534beab486.mp3",
+"d": 1.368,
+"kind": "d",
+"voice": "am_adam",
+"key": "534beab486"
+},
+"@manager|Ask me first. Always.": {
+"f": "ffa3eed8ac.mp3",
+"d": 2.064,
+"kind": "d",
+"voice": "bm_george",
+"key": "ffa3eed8ac"
+},
+"@mira|A whole year of orders? Let's go.": {
+"f": "e40bf8f497.mp3",
+"d": 2.016,
+"kind": "d",
+"voice": "af_heart",
+"key": "e40bf8f497"
+},
+"@mira|Manager, page 43, please.": {
+"f": "ee2afc6c3f.mp3",
+"d": 2.16,
+"kind": "d",
+"voice": "af_heart",
+"key": "ee2afc6c3f"
+},
+"@manager|The storeroom again? Long walk.": {
+"f": "4e4ebd8b01.mp3",
+"d": 2.424,
+"kind": "d",
+"voice": "bm_george",
+"key": "4e4ebd8b01"
+},
+"@mira|Done. Page 44, please.": {
+"f": "00558d1799.mp3",
+"d": 1.92,
+"kind": "d",
+"voice": "af_heart",
+"key": "00558d1799"
+},
+"@manager|Forty-three, forty-four… I see where this is going.": {
+"f": "4bee9e176b.mp3",
+"d": 3.6,
+"kind": "d",
+"voice": "bm_george",
+"key": "4bee9e176b"
+},
+"@manager|Sixty-one? Twelve? Nobody told me that.": {
+"f": "28b6e75048.mp3",
+"d": 3.192,
+"kind": "d",
+"voice": "bm_george",
+"key": "28b6e75048"
+},
+"@arjun|Excuse me — has anyone seen my cashback?": {
+"f": "7dbf73f0dc.mp3",
+"d": 2.736,
+"kind": "d",
+"voice": "hm_psi",
+"key": "7dbf73f0dc"
+},
+"@manager|No lamp, no work.": {
+"f": "b2303e6862.mp3",
+"d": 1.824,
+"kind": "d",
+"voice": "bm_george",
+"key": "b2303e6862"
+},
+"@mira|Pages 43 to 50, please. I’ll keep working.": {
+"f": "8011fc6be0.mp3",
+"d": 3.192,
+"kind": "d",
+"voice": "af_heart",
+"key": "8011fc6be0"
+},
+"@runner|Forty-three to fifty. On it.": {
+"f": "c991dd05e4.mp3",
+"d": 1.968,
+"kind": "d",
+"voice": "hm_omega",
+"key": "c991dd05e4"
+},
+"@runner|Always, boss.": {
+"f": "d4f1aa44c8.mp3",
+"d": 1.224,
+"kind": "d",
+"voice": "hm_omega",
+"key": "d4f1aa44c8"
+},
+"@mira|Right. I'll ask further ahead.": {
+"f": "3b8d0d88fd.mp3",
+"d": 1.584,
+"kind": "d",
+"voice": "af_heart",
+"key": "3b8d0d88fd"
+},
+"@mira|Three on the rail!": {
+"f": "f8145054be.mp3",
+"d": 1.032,
+"kind": "d",
+"voice": "af_heart",
+"key": "f8145054be"
+},
+"@mira|Thirty-two of thirty-two. Order up!": {
+"f": "15bdc6af55.mp3",
+"d": 2.16,
+"kind": "d",
+"voice": "af_heart",
+"key": "15bdc6af55"
+},
+"@priya|…and still no cashback.": {
+"f": "92e24ff594.mp3",
+"d": 1.872,
+"kind": "d",
+"voice": "hf_alpha",
+"key": "92e24ff594"
+},
+"@supervisor|Writes still go the old way, I'm afraid.": {
+"f": "d1abb0d9c0.mp3",
+"d": 2.328,
+"kind": "d",
+"voice": "am_eric",
+"key": "d1abb0d9c0"
+},
+"@leela|Every account in the bank? Hooks, please.": {
+"f": "375285c599.mp3",
+"d": 2.256,
+"kind": "d",
+"voice": "hf_beta",
+"key": "375285c599"
+},
+"@mira|Page 42… but how did I know it was page 42?": {
+"f": "1a85a5d819.mp3",
+"d": 3.216,
+"kind": "d",
+"voice": "af_heart",
+"key": "1a85a5d819"
+}
+}
