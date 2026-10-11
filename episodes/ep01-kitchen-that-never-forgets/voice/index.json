@@ -1,0 +1,2020 @@
+{
+"This is Priya. She has just paid two hundred rupees for a train ticket, from her banking app.": {
+"f": "15a41f3225.mp3",
+"d": 6.264,
+"kind": "n",
+"direction": [
+[
+"This is Priya.",
+"beat",
+380
+],
+[
+"She has just paid two hundred rupees for a train ticket, from her banking app.",
+"warm",
+0
+]
+]
+},
+"Payment successful. Behind that screen, the bank's database sent back two words: UPDATE 1. Meaning: done. Saved. It will stay that way.": {
+"f": "3b4b2ad0c0.mp3",
+"d": 10.296,
+"kind": "n",
+"direction": [
+[
+"Payment successful.",
+"beat",
+380
+],
+[
+"Behind that screen, the bank's database sent back two words: UPDATE 1.",
+"warm",
+260
+],
+[
+"Meaning: done.",
+"beat",
+380
+],
+[
+"Saved.",
+"beat",
+380
+],
+[
+"It will stay that way.",
+"warm",
+0
+]
+]
+},
+"One millisecond later, the power went out.": {
+"f": "9add4b644e.mp3",
+"d": 3.432,
+"kind": "n",
+"direction": [
+[
+"One millisecond later,",
+"warm",
+380
+],
+[
+"the power went out.",
+"grave",
+0
+]
+]
+},
+"So, is Priya's money safe?": {
+"f": "50a4f33e4b.mp3",
+"d": 3.048,
+"kind": "n",
+"direction": [
+[
+"So.",
+"hush",
+420
+],
+[
+"Is Priya's money safe?",
+"hush",
+0
+]
+]
+},
+"It is. But here's the twist. When the bank said done, her new balance had not been saved anywhere permanent. Not yet.": {
+"f": "71f8c72560.mp3",
+"d": 9.936,
+"kind": "n",
+"direction": [
+[
+"It is.",
+"bright",
+520
+],
+[
+"But here's the twist.",
+"hush",
+450
+],
+[
+"When the bank said done, her new balance had not been saved anywhere permanent.",
+"grave",
+620
+],
+[
+"Not yet.",
+"hush",
+0
+]
+]
+},
+"So how can a bank promise something it hasn't saved? This happens every time you tap Pay. It takes a few milliseconds. Let's slow it right down.": {
+"f": "425b3d6829.mp3",
+"d": 10.2,
+"kind": "n",
+"direction": [
+[
+"So how can a bank promise something it hasn't saved?",
+"grave",
+600
+],
+[
+"This happens every time you tap Pay.",
+"warm",
+260
+],
+[
+"It takes a few milliseconds.",
+"warm",
+420
+],
+[
+"Let's slow it right down.",
+"hush",
+0
+]
+]
+},
+"Every computer works a lot like a restaurant kitchen. This one belongs to Priya's bank, and it's busy, even late at night.": {
+"f": "2bbdf2b12c.mp3",
+"d": 8.112,
+"kind": "n",
+"direction": [
+[
+"Every computer works a lot like a restaurant kitchen.",
+"warm",
+260
+],
+[
+"This one belongs to Priya's bank, and it's busy, even late at night.",
+"warm",
+0
+]
+]
+},
+"It has only four work lamps. A chef can only work while a lamp shines on her.": {
+"f": "72bb87efaf.mp3",
+"d": 5.04,
+"kind": "n",
+"direction": [
+[
+"It has only four work lamps.",
+"warm",
+260
+],
+[
+"A chef can only work while a lamp shines on her.",
+"warm",
+0
+]
+]
+},
+"There are more chefs than lamps, so the lamps keep hopping from chef to chef. Everyone gets a turn.": {
+"f": "46517cb88c.mp3",
+"d": 6.312,
+"kind": "n",
+"direction": [
+[
+"There are more chefs than lamps, so the lamps keep hopping from chef to chef.",
+"warm",
+260
+],
+[
+"Everyone gets a turn.",
+"beat",
+0
+]
+]
+},
+"No lamp, no work. Remember that.": {
+"f": "960db5864d.mp3",
+"d": 2.976,
+"kind": "n",
+"direction": [
+[
+"No lamp, no work.",
+"bright",
+380
+],
+[
+"Remember that.",
+"hush",
+0
+]
+]
+},
+"This is the fridge. Everything in here is quick to grab. But the moment the power goes out, the fridge forgets everything.": {
+"f": "6baaa850fb.mp3",
+"d": 7.872,
+"kind": "n",
+"direction": [
+[
+"This is the fridge.",
+"beat",
+380
+],
+[
+"Everything in here is quick to grab.",
+"warm",
+260
+],
+[
+"But the moment the power goes out, the fridge forgets everything.",
+"warm",
+0
+]
+]
+},
+"And this is the storeroom. Anything in here survives a power cut. But it's a long, slow walk away.": {
+"f": "656e3a5044.mp3",
+"d": 6.288,
+"kind": "n",
+"direction": [
+[
+"And this is the storeroom.",
+"warm",
+260
+],
+[
+"Anything in here survives a power cut.",
+"warm",
+260
+],
+[
+"But it's a long, slow walk away.",
+"warm",
+0
+]
+]
+},
+"And this is the Manager. He runs the building. Nobody touches a lamp, a shelf or the storeroom without asking him.": {
+"f": "ed49b5f5c8.mp3",
+"d": 8.328,
+"kind": "n",
+"direction": [
+[
+"And this is the Manager.",
+"warm",
+260
+],
+[
+"He runs the building.",
+"beat",
+380
+],
+[
+"Nobody touches a lamp, a shelf or the storeroom without asking him.",
+"warm",
+0
+]
+]
+},
+"Keep your eye on two places: the fridge and the storeroom. This whole story is about which one Priya's money is in. We'll keep score at the top of the screen.": {
+"f": "1ef8ff7dea.mp3",
+"d": 9.816,
+"kind": "n",
+"direction": [
+[
+"Keep your eye on two places: the fridge and the storeroom.",
+"warm",
+260
+],
+[
+"This whole story is about which one Priya's money is in.",
+"warm",
+260
+],
+[
+"We'll keep score at the top of the screen.",
+"warm",
+0
+]
+]
+},
+"Priya's payment arrives at the door of the bank's database. It's called PostgreSQL. Picture it as a catering company that rents this kitchen. Its staff wear coral.": {
+"f": "0332347c7a.mp3",
+"d": 10.872,
+"kind": "n",
+"direction": [
+[
+"Priya's payment arrives at the door of the bank's database.",
+"warm",
+260
+],
+[
+"It's called PostgreSQL.",
+"aside",
+260
+],
+[
+"Picture it as a catering company that rents this kitchen.",
+"warm",
+260
+],
+[
+"Its staff wear coral.",
+"beat",
+0
+]
+]
+},
+"The Host greets every new customer, but he never cooks. Instead, he asks the Manager for an exact copy of himself.": {
+"f": "fa84075c28.mp3",
+"d": 7.584,
+"kind": "n",
+"direction": [
+[
+"The Host greets every new customer, but he never cooks.",
+"warm",
+260
+],
+[
+"Instead, he asks the Manager for an exact copy of himself.",
+"warm",
+0
+]
+]
+},
+"That copy becomes Mira: a brand new chef, just for Priya. Computer people call her a process. Making the copy is called a fork.": {
+"f": "493626f48a.mp3",
+"d": 8.616,
+"kind": "n",
+"direction": [
+[
+"That copy becomes Mira: a brand new chef, just for Priya.",
+"warm",
+260
+],
+[
+"Computer people call her a process.",
+"aside",
+260
+],
+[
+"Making the copy is called a fork.",
+"aside",
+0
+]
+]
+},
+"One chef per customer has a big upside: if another chef burns something, Mira's work is safe.": {
+"f": "d141c0a949.mp3",
+"d": 6.696,
+"kind": "n",
+"direction": [
+[
+"One chef per customer has a big upside: if another chef burns something, Mira's work is safe.",
+"warm",
+0
+]
+]
+},
+"No order yet, so Mira dozes off, and her lamp goes to someone busier. Computer people call this waiting.": {
+"f": "ece0b63f4e.mp3",
+"d": 7.176,
+"kind": "n",
+"direction": [
+[
+"No order yet, so Mira dozes off, and her lamp goes to someone busier.",
+"warm",
+260
+],
+[
+"Computer people call this waiting.",
+"aside",
+0
+]
+]
+},
+"Then the order arrives. It looks scary, but it only says: take two hundred rupees from Priya.": {
+"f": "03cc4edf06.mp3",
+"d": 6.48,
+"kind": "n",
+"direction": [
+[
+"Then the order arrives.",
+"beat",
+380
+],
+[
+"It looks scary, but it only says: take two hundred rupees from Priya.",
+"warm",
+0
+]
+]
+},
+"The Manager wakes her. She's ready to go, but she still needs a lamp.": {
+"f": "a84d22e708.mp3",
+"d": 4.56,
+"kind": "n",
+"direction": [
+[
+"The Manager wakes her.",
+"beat",
+380
+],
+[
+"She's ready to go, but she still needs a lamp.",
+"warm",
+0
+]
+]
+},
+"There. Lamp on. Now she can work.": {
+"f": "1773da14b7.mp3",
+"d": 3.576,
+"kind": "n",
+"direction": [
+[
+"There.",
+"beat",
+380
+],
+[
+"Lamp on.",
+"beat",
+380
+],
+[
+"Now she can work.",
+"beat",
+0
+]
+]
+},
+"First, Mira has to find Priya's account. The bank keeps an index, just like the index at the back of a book. It says: Priya is on page 42.": {
+"f": "c6d79aff37.mp3",
+"d": 9.96,
+"kind": "n",
+"direction": [
+[
+"First, Mira has to find Priya's account.",
+"warm",
+260
+],
+[
+"The bank keeps an index, just like the index at the back of a book.",
+"warm",
+260
+],
+[
+"It says: Priya is on page 42.",
+"warm",
+0
+]
+]
+},
+"Page 42. But where is it right now? In the fridge? Or out in the storeroom?": {
+"f": "df281dbf08.mp3",
+"d": 6.48,
+"kind": "n",
+"direction": [
+[
+"Page 42.",
+"beat",
+380
+],
+[
+"But where is it right now?",
+"warm",
+480
+],
+[
+"In the fridge?",
+"beat",
+480
+],
+[
+"Or out in the storeroom?",
+"warm",
+0
+]
+]
+},
+"She checks the company's own shelf in the fridge first.": {
+"f": "382f89b755.mp3",
+"d": 3.12,
+"kind": "n",
+"direction": [
+[
+"She checks the company's own shelf in the fridge first.",
+"warm",
+0
+]
+]
+},
+"Not there.": {
+"f": "1627cf4359.mp3",
+"d": 1.128,
+"kind": "n",
+"direction": [
+[
+"Not there.",
+"beat",
+0
+]
+]
+},
+"The Manager keeps a shelf of his own in the fridge, too. Not there either.": {
+"f": "b1e02ff81d.mp3",
+"d": 4.728,
+"kind": "n",
+"direction": [
+[
+"The Manager keeps a shelf of his own in the fridge, too.",
+"warm",
+260
+],
+[
+"Not there either.",
+"beat",
+0
+]
+]
+},
+"So the Manager has to walk all the way to the storeroom. Mira can't do a thing until he's back, so she naps, and her lamp goes to another chef.": {
+"f": "69c0d1d629.mp3",
+"d": 9.0,
+"kind": "n",
+"direction": [
+[
+"So the Manager has to walk all the way to the storeroom.",
+"warm",
+260
+],
+[
+"Mira can't do a thing until he's back, so she naps, and her lamp goes to another chef.",
+"warm",
+0
+]
+]
+},
+"How long is this walk? If every move under a lamp took one second, this one trip would take days.": {
+"f": "941e2fede6.mp3",
+"d": 6.768,
+"kind": "n",
+"direction": [
+[
+"How long is this walk?",
+"bright",
+450
+],
+[
+"If every move under a lamp took one second,",
+"warm",
+200
+],
+[
+"this one trip would take days.",
+"grave",
+0
+]
+]
+},
+"He's back with page 42, and puts it on the company shelf. Look at the score: Priya's account is in the fridge now, saying 500.": {
+"f": "b999f3bbfc.mp3",
+"d": 8.952,
+"kind": "n",
+"direction": [
+[
+"He's back with page 42, and puts it on the company shelf.",
+"warm",
+260
+],
+[
+"Look at the score: Priya's account is in the fridge now, saying 500.",
+"warm",
+0
+]
+]
+},
+"Now Mira makes the change, very carefully.": {
+"f": "af91a418ba.mp3",
+"d": 3.024,
+"kind": "n",
+"direction": [
+[
+"Now Mira makes the change, very carefully.",
+"warm",
+0
+]
+]
+},
+"First she stamps Priya's card: mine, until order 812 is finished. That stamp is a lock. Anyone else who wants this card has to wait. Remember that.": {
+"f": "23f7025eae.mp3",
+"d": 10.872,
+"kind": "n",
+"direction": [
+[
+"First she stamps Priya's card: mine, until order 812 is finished.",
+"warm",
+260
+],
+[
+"That stamp is a lock.",
+"warm",
+260
+],
+[
+"Anyone else who wants this card has to wait.",
+"warm",
+260
+],
+[
+"Remember that.",
+"hush",
+0
+]
+]
+},
+"Then, instead of rubbing out 500, she writes a brand new card: 300. The old card stays where it is.": {
+"f": "7ed5c6e0f4.mp3",
+"d": 7.536,
+"kind": "n",
+"direction": [
+[
+"Then, instead of rubbing out 500, she writes a brand new card: 300.",
+"warm",
+260
+],
+[
+"The old card stays where it is.",
+"warm",
+0
+]
+]
+},
+"Why keep the old card? Because of Leela. She's halfway through adding up every account for a monthly report. If Priya's 500 turned into 300 in the middle of her count, her totals would not add up.": {
+"f": "607b53a8a3.mp3",
+"d": 13.896,
+"kind": "n",
+"direction": [
+[
+"Why keep the old card?",
+"warm",
+480
+],
+[
+"Because of Leela.",
+"beat",
+380
+],
+[
+"She's halfway through adding up every account for a monthly report.",
+"warm",
+260
+],
+[
+"If Priya's 500 turned into 300 in the middle of her count, her totals would not add up.",
+"warm",
+0
+]
+]
+},
+"So Leela keeps reading the old card, Mira writes the new one, and nobody waits for anybody.": {
+"f": "7c27a697bc.mp3",
+"d": 6.504,
+"kind": "n",
+"direction": [
+[
+"So Leela keeps reading the old card, Mira writes the new one, and nobody waits for anybody.",
+"warm",
+0
+]
+]
+},
+"The old card will need cleaning up later.": {
+"f": "e6204f786d.mp3",
+"d": 2.616,
+"kind": "n",
+"direction": [
+[
+"The old card will need cleaning up later.",
+"warm",
+0
+]
+]
+},
+"Now, the most important habit in this kitchen. It's the secret to the whole story.": {
+"f": "b3d01814b0.mp3",
+"d": 6.048,
+"kind": "n",
+"direction": [
+[
+"Now.",
+"hush",
+380
+],
+[
+"The most important habit in this kitchen.",
+"hush",
+420
+],
+[
+"It's the secret to the whole story.",
+"hush",
+0
+]
+]
+},
+"Before any change counts, it must be written in the company notebook. Not the page itself, just a short note about the change.": {
+"f": "5c731ad249.mp3",
+"d": 8.04,
+"kind": "n",
+"direction": [
+[
+"Before any change counts, it must be written in the company notebook.",
+"warm",
+260
+],
+[
+"Not the page itself, just a short note about the change.",
+"warm",
+0
+]
+]
+},
+"This is the first change to page 42 since the last checkpoint, the last time everything was fully saved. So Mira also copies the entire page into the notebook. Seems like overkill. Remember it anyway.": {
+"f": "9e3913186a.mp3",
+"d": 14.664,
+"kind": "n",
+"direction": [
+[
+"This is the first change to page 42 since the last checkpoint, the last time everything was fully saved.",
+"warm",
+260
+],
+[
+"So Mira also copies the entire page into the notebook.",
+"warm",
+260
+],
+[
+"Seems like overkill.",
+"beat",
+380
+],
+[
+"Remember it anyway.",
+"hush",
+0
+]
+]
+},
+"Then the note itself: page 42, Priya, now 300, order 812.": {
+"f": "ac204ca4db.mp3",
+"d": 5.808,
+"kind": "n",
+"direction": [
+[
+"Then the note itself: page 42, Priya, now 300, order 812.",
+"warm",
+0
+]
+]
+},
+"But look at the score: the notebook is still in the fridge. Nothing has reached the storeroom yet.": {
+"f": "b869d04a7a.mp3",
+"d": 5.64,
+"kind": "n",
+"direction": [
+[
+"But look at the score: the notebook is still in the fridge.",
+"warm",
+260
+],
+[
+"Nothing has reached the storeroom yet.",
+"warm",
+0
+]
+]
+},
+"She sticks a reminder on page 42: changed, but not saved.": {
+"f": "394b86e5bc.mp3",
+"d": 4.656,
+"kind": "n",
+"direction": [
+[
+"She sticks a reminder on page 42: changed, but not saved.",
+"warm",
+0
+]
+]
+},
+"Meanwhile, Arjun, one of the chefs at the counter, has an order for the very same account: a hundred rupees cashback for Priya.": {
+"f": "8feeb7289f.mp3",
+"d": 9.144,
+"kind": "n",
+"direction": [
+[
+"Meanwhile, Arjun, one of the chefs at the counter, has an order for the very same account: a hundred rupees cashback for Priya.",
+"warm",
+0
+]
+]
+},
+"He finds Mira's stamp: order 812, not finished.": {
+"f": "ad2db76eb7.mp3",
+"d": 3.936,
+"kind": "n",
+"direction": [
+[
+"He finds Mira's stamp: order 812, not finished.",
+"warm",
+0
+]
+]
+},
+"Picture it without the stamp. Both chefs read 500.": {
+"f": "86927e594d.mp3",
+"d": 3.984,
+"kind": "n",
+"direction": [
+[
+"Picture it without the stamp.",
+"warm",
+260
+],
+[
+"Both chefs read 500.",
+"beat",
+0
+]
+]
+},
+"Mira writes 300. Then Arjun writes 600. Mira's payment just vanished. The train company never gets paid. Engineers call this a lost update.": {
+"f": "188378748f.mp3",
+"d": 11.4,
+"kind": "n",
+"direction": [
+[
+"Mira writes 300.",
+"urgent",
+200
+],
+[
+"Then Arjun writes 600.",
+"urgent",
+650
+],
+[
+"Mira's payment just vanished.",
+"grave",
+420
+],
+[
+"The train company never gets paid.",
+"grave",
+380
+],
+[
+"Engineers call this a lost update.",
+"aside",
+0
+]
+]
+},
+"That's why Arjun waits.": {
+"f": "96e91f851a.mp3",
+"d": 1.968,
+"kind": "n",
+"direction": [
+[
+"That's why Arjun waits.",
+"beat",
+0
+]
+]
+},
+"Quick recap. Priya's new balance, 300, exists only in the fridge. One power cut, and it's gone. So how can the bank tell Priya done, right now?": {
+"f": "eb79c17fa1.mp3",
+"d": 11.016,
+"kind": "n",
+"direction": [
+[
+"Quick recap.",
+"bright",
+300
+],
+[
+"Priya's new balance, 300, exists only in the fridge.",
+"warm",
+260
+],
+[
+"One power cut, and it's gone.",
+"grave",
+520
+],
+[
+"So how can the bank tell Priya done, right now?",
+"hush",
+0
+]
+]
+},
+"Mira writes one final note: order 812, finished.": {
+"f": "06137538af.mp3",
+"d": 4.128,
+"kind": "n",
+"direction": [
+[
+"Mira writes one final note: order 812, finished.",
+"warm",
+0
+]
+]
+},
+"Here's the trick. She doesn't carry page 42 to the storeroom. A payment can touch pages all over the place, and there are thousands of them.": {
+"f": "b857fbcb02.mp3",
+"d": 9.168,
+"kind": "n",
+"direction": [
+[
+"Here's the trick.",
+"bright",
+480
+],
+[
+"She doesn't carry page 42 to the storeroom.",
+"warm",
+300
+],
+[
+"A payment can touch pages all over the place, and there are thousands of them.",
+"warm",
+0
+]
+]
+},
+"But the notes all sit together, on one notebook page. So she only sends the notebook. One small, quick trip.": {
+"f": "cd263b54a6.mp3",
+"d": 7.392,
+"kind": "n",
+"direction": [
+[
+"But the notes all sit together, on one notebook page.",
+"warm",
+260
+],
+[
+"So she only sends the notebook.",
+"warm",
+260
+],
+[
+"One small, quick trip.",
+"beat",
+0
+]
+]
+},
+"She asks the Manager to save the notebook to disk.": {
+"f": "526dff7182.mp3",
+"d": 3.144,
+"kind": "n",
+"direction": [
+[
+"She asks the Manager to save the notebook to disk.",
+"warm",
+0
+]
+]
+},
+"And then she waits. Every payment you have ever made has waited for this one trip.": {
+"f": "bc1c4a8e56.mp3",
+"d": 6.96,
+"kind": "n",
+"direction": [
+[
+"And then...",
+"hush",
+350
+],
+[
+"she waits.",
+"hush",
+650
+],
+[
+"Every payment you have ever made has waited for this one trip.",
+"wonder",
+0
+]
+]
+},
+"Two other chefs finish at the same moment. The Manager takes all their notes in the same trip. That's called group commit.": {
+"f": "a439efbe70.mp3",
+"d": 7.2,
+"kind": "n",
+"direction": [
+[
+"Two other chefs finish at the same moment.",
+"warm",
+260
+],
+[
+"The Manager takes all their notes in the same trip.",
+"warm",
+260
+],
+[
+"That's called group commit.",
+"aside",
+0
+]
+]
+},
+"The notes are in the storeroom. Now, even if the lights go out, Priya's payment can be rebuilt from them.": {
+"f": "b4d4f0075f.mp3",
+"d": 6.48,
+"kind": "n",
+"direction": [
+[
+"The notes are in the storeroom.",
+"warm",
+260
+],
+[
+"Now, even if the lights go out, Priya's payment can be rebuilt from them.",
+"warm",
+0
+]
+]
+},
+"Only now does Mira mark order 812 as done, in the company ledger.": {
+"f": "24c928f3a3.mp3",
+"d": 5.136,
+"kind": "n",
+"direction": [
+[
+"Only now does Mira mark order 812 as done, in the company ledger.",
+"warm",
+0
+]
+]
+},
+"Order 812 is finished, so Arjun wakes up. He sees the new 300, and adds his cashback on top: 400. His order is not finished yet.": {
+"f": "530b68625b.mp3",
+"d": 10.56,
+"kind": "n",
+"direction": [
+[
+"Order 812 is finished, so Arjun wakes up.",
+"warm",
+260
+],
+[
+"He sees the new 300, and adds his cashback on top: 400.",
+"warm",
+260
+],
+[
+"His order is not finished yet.",
+"warm",
+0
+]
+]
+},
+"And Mira tells Priya: done. UPDATE 1.": {
+"f": "de0f4750d9.mp3",
+"d": 3.648,
+"kind": "n",
+"direction": [
+[
+"And Mira tells Priya:",
+"warm",
+380
+],
+[
+"done.",
+"bright",
+350
+],
+[
+"UPDATE 1.",
+"bright",
+0
+]
+]
+},
+"Which is exactly where our story began.": {
+"f": "dd260b3ee8.mp3",
+"d": 2.784,
+"kind": "n",
+"direction": [
+[
+"Which is exactly where our story began.",
+"hush",
+0
+]
+]
+},
+"And then, the lights go out.": {
+"f": "61eb0a83d7.mp3",
+"d": 2.976,
+"kind": "n",
+"direction": [
+[
+"And then,",
+"hush",
+700
+],
+[
+"the lights go out.",
+"grave",
+0
+]
+]
+},
+"Look inside the storeroom. Mira's notes are here. And page 42? Still says 500.": {
+"f": "e54a018d8c.mp3",
+"d": 7.416,
+"kind": "n",
+"direction": [
+[
+"Look inside the storeroom.",
+"beat",
+380
+],
+[
+"Mira's notes are here.",
+"beat",
+380
+],
+[
+"And page 42?",
+"beat",
+480
+],
+[
+"Still says 500.",
+"beat",
+0
+]
+]
+},
+"The 300 only ever lived in the fridge. And the fridge has just forgotten everything.": {
+"f": "6d627e83f3.mp3",
+"d": 6.648,
+"kind": "n",
+"direction": [
+[
+"The 300 only ever lived in the fridge.",
+"grave",
+450
+],
+[
+"And the fridge has just forgotten everything.",
+"hush",
+0
+]
+]
+},
+"So, did the bank just lie to Priya?": {
+"f": "a99ba9bb96.mp3",
+"d": 3.36,
+"kind": "n",
+"direction": [
+[
+"So.",
+"hush",
+450
+],
+[
+"Did the bank just lie to Priya?",
+"grave",
+0
+]
+]
+},
+"When the power comes back, a recovery chef opens the notebook and replays every note, in order.": {
+"f": "8052b0a6e4.mp3",
+"d": 6.456,
+"kind": "n",
+"direction": [
+[
+"When the power comes back, a recovery chef opens the notebook and replays every note, in order.",
+"warm",
+0
+]
+]
+},
+"First, it fetches page 42 from the storeroom. It says 500.": {
+"f": "6e0cdab917.mp3",
+"d": 4.968,
+"kind": "n",
+"direction": [
+[
+"First, it fetches page 42 from the storeroom.",
+"warm",
+260
+],
+[
+"It says 500.",
+"beat",
+0
+]
+]
+},
+"Then it finds the full-page copy Mira made. Remember it? Page 42 comes back exactly as she left it: 300.": {
+"f": "9ac9d2e2c9.mp3",
+"d": 8.736,
+"kind": "n",
+"direction": [
+[
+"Then it finds the full-page copy Mira made.",
+"warm",
+260
+],
+[
+"Remember it?",
+"hush",
+480
+],
+[
+"Page 42 comes back exactly as she left it: 300.",
+"warm",
+0
+]
+]
+},
+"Order 812: done. Priya's money is safe. The notebook kept the promise.": {
+"f": "ca54690575.mp3",
+"d": 6.432,
+"kind": "n",
+"direction": [
+[
+"Order 812:",
+"wonder",
+250
+],
+[
+"done.",
+"bright",
+500
+],
+[
+"Priya's money is safe.",
+"wonder",
+500
+],
+[
+"The notebook kept the promise.",
+"wonder",
+0
+]
+]
+},
+"And Arjun's cashback? It was never finished, and its note never reached the storeroom. So it simply never happened. His app tries again.": {
+"f": "848d022fe8.mp3",
+"d": 9.456,
+"kind": "n",
+"direction": [
+[
+"And Arjun's cashback?",
+"beat",
+480
+],
+[
+"It was never finished, and its note never reached the storeroom.",
+"warm",
+260
+],
+[
+"So it simply never happened.",
+"warm",
+260
+],
+[
+"His app tries again.",
+"beat",
+0
+]
+]
+},
+"Now imagine the lights went out a moment earlier, while the Manager was still walking with the notebook.": {
+"f": "f75c689277.mp3",
+"d": 6.168,
+"kind": "n",
+"direction": [
+[
+"Now imagine the lights went out a moment earlier, while the Manager was still walking with the notebook.",
+"warm",
+0
+]
+]
+},
+"Then Priya never hears done. Her app shows an error, her balance is still 500, and she simply taps Pay again.": {
+"f": "ff6f4eeddd.mp3",
+"d": 8.04,
+"kind": "n",
+"direction": [
+[
+"Then Priya never hears done.",
+"warm",
+260
+],
+[
+"Her app shows an error, her balance is still 500, and she simply taps Pay again.",
+"warm",
+0
+]
+]
+},
+"No promise was made, so no promise was broken.": {
+"f": "4af68d0830.mp3",
+"d": 3.936,
+"kind": "n",
+"direction": [
+[
+"No promise was made,",
+"wonder",
+300
+],
+[
+"so no promise was broken.",
+"wonder",
+0
+]
+]
+},
+"That's the whole secret. The bank only says done once the note about the change is safe in the storeroom.": {
+"f": "59246e82ec.mp3",
+"d": 7.128,
+"kind": "n",
+"direction": [
+[
+"That's the whole secret.",
+"wonder",
+550
+],
+[
+"The bank only says done once the note about the change is safe in the storeroom.",
+"wonder",
+0
+]
+]
+},
+"Later that night, the clean-up crew arrives. Every few minutes, the Supervisor makes sure every changed page really gets carried to the storeroom.": {
+"f": "f094121b4b.mp3",
+"d": 8.976,
+"kind": "n",
+"direction": [
+[
+"Later that night, the clean-up crew arrives.",
+"warm",
+260
+],
+[
+"Every few minutes, the Supervisor makes sure every changed page really gets carried to the storeroom.",
+"warm",
+0
+]
+]
+},
+"What if the lights go out halfway through this delivery? Page 42 could land half old, half new. Torn. A short note can't fix that.": {
+"f": "b84f9294d1.mp3",
+"d": 9.528,
+"kind": "n",
+"direction": [
+[
+"What if the lights go out halfway through this delivery?",
+"urgent",
+420
+],
+[
+"Page 42 could land half old, half new.",
+"grave",
+400
+],
+[
+"Torn.",
+"beat",
+450
+],
+[
+"A short note can't fix that.",
+"grave",
+0
+]
+]
+},
+"But the full-page copy can. That's exactly why Mira made it.": {
+"f": "8902b222d2.mp3",
+"d": 4.272,
+"kind": "n",
+"direction": [
+[
+"But the full-page copy can.",
+"bright",
+420
+],
+[
+"That's exactly why Mira made it.",
+"wonder",
+0
+]
+]
+},
+"This time all goes well. Look at the score: page 42 is finally in the storeroom, saying 300.": {
+"f": "5c74221938.mp3",
+"d": 7.392,
+"kind": "n",
+"direction": [
+[
+"This time all goes well.",
+"warm",
+260
+],
+[
+"Look at the score: page 42 is finally in the storeroom, saying 300.",
+"warm",
+0
+]
+]
+},
+"And old notebook pages, no longer needed, can finally be thrown away.": {
+"f": "dff9361ce3.mp3",
+"d": 4.824,
+"kind": "n",
+"direction": [
+[
+"And old notebook pages, no longer needed, can finally be thrown away.",
+"warm",
+0
+]
+]
+},
+"Last, the Cleaner sweeps away the old 500 card. Nobody needs it anymore.": {
+"f": "f04a903ae1.mp3",
+"d": 5.64,
+"kind": "n",
+"direction": [
+[
+"Last, the Cleaner sweeps away the old 500 card.",
+"warm",
+260
+],
+[
+"Nobody needs it anymore.",
+"beat",
+0
+]
+]
+},
+"This whole story rests on trust. When the Manager says it's in the storeroom, it has to be true. In 2018, engineers found that it wasn't always.": {
+"f": "86e9a90af4.mp3",
+"d": 10.92,
+"kind": "n",
+"direction": [
+[
+"This whole story rests on trust.",
+"grave",
+420
+],
+[
+"When the Manager says it's in the storeroom, it has to be true.",
+"warm",
+550
+],
+[
+"In 2018, engineers found that it wasn't always.",
+"hush",
+0
+]
+]
+},
+"A delivery to the storeroom failed. The Manager reported the error, once.": {
+"f": "10c73035a6.mp3",
+"d": 4.656,
+"kind": "n",
+"direction": [
+[
+"A delivery to the storeroom failed.",
+"warm",
+260
+],
+[
+"The Manager reported the error, once.",
+"warm",
+0
+]
+]
+},
+"Then, on Linux, he could quietly mark the page as fine, and later drop it from his shelf.": {
+"f": "aed8eb8eb9.mp3",
+"d": 6.12,
+"kind": "n",
+"direction": [
+[
+"Then, on Linux, he could quietly mark the page as fine, and later drop it from his shelf.",
+"warm",
+0
+]
+]
+},
+"PostgreSQL asked again. This time the Manager said all good. The page never reached the storeroom.": {
+"f": "67c0ca570b.mp3",
+"d": 7.368,
+"kind": "n",
+"direction": [
+[
+"PostgreSQL asked again.",
+"warm",
+300
+],
+[
+"This time the Manager said all good.",
+"warm",
+600
+],
+[
+"The page never reached the storeroom.",
+"grave",
+0
+]
+]
+},
+"Today, if this ever happens, PostgreSQL stops on purpose, restarts, and rebuilds everything from the notebook.": {
+"f": "fc9eda3ef7.mp3",
+"d": 8.304,
+"kind": "n",
+"direction": [
+[
+"Today, if this ever happens, PostgreSQL stops on purpose, restarts, and rebuilds everything from the notebook.",
+"warm",
+0
+]
+]
+},
+"A promise is only as strong as the promises underneath it.": {
+"f": "0554eb1c07.mp3",
+"d": 4.152,
+"kind": "n",
+"direction": [
+[
+"A promise is only as strong",
+"wonder",
+200
+],
+[
+"as the promises underneath it.",
+"wonder",
+0
+]
+]
+},
+"Every character tonight was a real part of your computer, and of PostgreSQL.": {
+"f": "955e35423d.mp3",
+"d": 5.256,
+"kind": "n",
+"direction": [
+[
+"Every character tonight was a real part of your computer, and of PostgreSQL.",
+"warm",
+0
+]
+]
+},
+"One more thing. Tonight, every time Mira needed the storeroom, she had to stop and wait.": {
+"f": "0eb2fbfff2.mp3",
+"d": 6.36,
+"kind": "n",
+"direction": [
+[
+"One more thing.",
+"hush",
+600
+],
+[
+"Tonight, every time Mira needed the storeroom, she had to stop and wait.",
+"warm",
+0
+]
+]
+},
+"Since PostgreSQL 18, for big jobs like reading a whole table, PostgreSQL can ask for many pages ahead of time, and keep working while they arrive.": {
+"f": "c8c96426dd.mp3",
+"d": 11.832,
+"kind": "n",
+"direction": [
+[
+"Since PostgreSQL 18, for big jobs like reading a whole table, PostgreSQL can ask for many pages ahead of time, and keep working while they arrive.",
+"warm",
+0
+]
+]
+},
+"Deciding who gets a lamp next is the operating system's scheduler. It happens thousands of times a second.": {
+"f": "d666f658bf.mp3",
+"d": 7.128,
+"kind": "n",
+"direction": [
+[
+"Deciding who gets a lamp next is the operating system's scheduler.",
+"warm",
+260
+],
+[
+"It happens thousands of times a second.",
+"warm",
+0
+]
+]
+},
+"The Manager gives her a private spot in the fridge that no other chef can open.": {
+"f": "ebad147a5a.mp3",
+"d": 5.064,
+"kind": "n",
+"direction": [
+[
+"The Manager gives her a private spot in the fridge that no other chef can open.",
+"warm",
+0
+]
+]
+},
+"Hiring a chef takes time and memory, which is why busy apps put a pooler, like PgBouncer, in front, to reuse chefs.": {
+"f": "3a741e2e08.mp3",
+"d": 8.808,
+"kind": "n",
+"direction": [
+[
+"Hiring a chef takes time and memory, which is why busy apps put a pooler, like PgBouncer, in front, to reuse chefs.",
+"warm",
+0
+]
+]
+},
+"She also hangs a small sign on the accounts table: rows are being changed here, so nobody may delete this table until she is done. Other chefs can still change other rows.": {
+"f": "ba0bbc65c3.mp3",
+"d": 11.496,
+"kind": "n",
+"direction": [
+[
+"She also hangs a small sign on the accounts table: rows are being changed here, so nobody may delete this table until she is done.",
+"warm",
+260
+],
+[
+"Other chefs can still change other rows.",
+"warm",
+0
+]
+]
+},
+"Every chef can reach this same shelf. Each one uses her own shelf numbers, and the Manager's translation book, the page table, points them all at the same real shelf. That's shared memory.": {
+"f": "8f4f87902b.mp3",
+"d": 12.936,
+"kind": "n",
+"direction": [
+[
+"Every chef can reach this same shelf.",
+"warm",
+260
+],
+[
+"Each one uses her own shelf numbers, and the Manager's translation book, the page table, points them all at the same real shelf.",
+"warm",
+260
+],
+[
+"That's shared memory.",
+"beat",
+0
+]
+]
+},
+"He also keeps a copy on his own shelf, so the same page now sits in memory twice. That's called double caching.": {
+"f": "b2c1246a00.mp3",
+"d": 7.728,
+"kind": "n",
+"direction": [
+[
+"He also keeps a copy on his own shelf, so the same page now sits in memory twice.",
+"warm",
+260
+],
+[
+"That's called double caching.",
+"aside",
+0
+]
+]
+},
+"The hands-off sign is held for only microseconds, while she writes. It's called a latch.": {
+"f": "b127691ddb.mp3",
+"d": 6.12,
+"kind": "n",
+"direction": [
+[
+"The hands-off sign is held for only microseconds, while she writes.",
+"warm",
+260
+],
+[
+"It's called a latch.",
+"aside",
+0
+]
+]
+},
+"Keeping several versions of the same row like this is called MVCC. Readers never block writers, and writers never block readers.": {
+"f": "8722dbb1db.mp3",
+"d": 9.552,
+"kind": "n",
+"direction": [
+[
+"Keeping several versions of the same row like this is called MVCC.",
+"warm",
+260
+],
+[
+"Readers never block writers, and writers never block readers.",
+"warm",
+0
+]
+]
+},
+"On Linux, PostgreSQL makes this request with a call named fdatasync.": {
+"f": "342d8deae9.mp3",
+"d": 5.424,
+"kind": "n",
+"direction": [
+[
+"On Linux, PostgreSQL makes this request with a call named fdatasync.",
+"warm",
+0
+]
+]
+},
+"Her locks are released too: the sign on the accounts table comes down.": {
+"f": "bed2d64f20.mp3",
+"d": 4.632,
+"kind": "n",
+"direction": [
+[
+"Her locks are released too: the sign on the accounts table comes down.",
+"warm",
+0
+]
+]
+},
+"The Helper, the background writer, keeps clean space free on the company shelf by handing dirty pages over to the Manager's shelf.": {
+"f": "975e582fc6.mp3",
+"d": 8.64,
+"kind": "n",
+"direction": [
+[
+"The Helper, the background writer, keeps clean space free on the company shelf by handing dirty pages over to the Manager's shelf.",
+"warm",
+0
+]
+]
+},
+"That still is not the storeroom. Handing a page to the Manager is not the same as saving it.": {
+"f": "d74312d882.mp3",
+"d": 6.048,
+"kind": "n",
+"direction": [
+[
+"That still is not the storeroom.",
+"warm",
+260
+],
+[
+"Handing a page to the Manager is not the same as saving it.",
+"warm",
+0
+]
+]
+},
+"This is called a checkpoint. By default it runs every five minutes, or sooner when the notebook fills up.": {
+"f": "9e0b324bbb.mp3",
+"d": 6.648,
+"kind": "n",
+"direction": [
+[
+"This is called a checkpoint.",
+"aside",
+260
+],
+[
+"By default it runs every five minutes, or sooner when the notebook fills up.",
+"warm",
+0
+]
+]
+},
+"Meanwhile, the Courier, the WAL sender, carries copies of the notes across town to a replica, which replays them. Priya's balance is 300 there too.": {
+"f": "27868a64d5.mp3",
+"d": 10.176,
+"kind": "n",
+"direction": [
+[
+"Meanwhile, the Courier, the WAL sender, carries copies of the notes across town to a replica, which replays them.",
+"warm",
+260
+],
+[
+"Priya's balance is 300 there too.",
+"warm",
+0
+]
+]
+},
+"If a long report kept old cards in use for hours, they would pile up. That is called table bloat.": {
+"f": "350d413849.mp3",
+"d": 6.744,
+"kind": "n",
+"direction": [
+[
+"If a long report kept old cards in use for hours, they would pile up.",
+"warm",
+260
+],
+[
+"That is called table bloat.",
+"aside",
+0
+]
+]
+},
+"@manager|Ask me first. Always.": {
+"f": "777192af2c.mp3",
+"d": 2.064,
+"kind": "d",
+"voice": "bm_george"
+},
+"@host|Manager: copy me, please.": {
+"f": "2eb4981da9.mp3",
+"d": 2.016,
+"kind": "d",
+"voice": "bm_lewis"
+},
+"@mira|Hi Priya! I'm all yours.": {
+"f": "d06801d8a4.mp3",
+"d": 1.752,
+"kind": "d",
+"voice": "af_heart"
+},
+"@manager|Mira! Wake up!": {
+"f": "9498824eb4.mp3",
+"d": 1.512,
+"kind": "d",
+"voice": "bm_george"
+},
+"@mira|Where does Priya's account live?": {
+"f": "4851fe33a3.mp3",
+"d": 1.632,
+"kind": "d",
+"voice": "af_heart"
+},
+"@mira|Page 42!": {
+"f": "7851542fa6.mp3",
+"d": 1.128,
+"kind": "d",
+"voice": "af_heart"
+},
+"@mira|Manager, can you fetch page 42?": {
+"f": "cf9dc29aea.mp3",
+"d": 2.28,
+"kind": "d",
+"voice": "af_heart"
+},
+"@manager|The storeroom? Ugh. Long walk.": {
+"f": "24c4440229.mp3",
+"d": 2.496,
+"kind": "d",
+"voice": "bm_george"
+},
+"@mira|Hands off, everyone. Writing!": {
+"f": "40601a42ac.mp3",
+"d": 1.92,
+"kind": "d",
+"voice": "af_heart"
+},
+"@leela|Still counting… Priya: 500": {
+"f": "2960670ee3.mp3",
+"d": 2.16,
+"kind": "d",
+"voice": "hf_beta"
+},
+"@arjun|Cashback time!": {
+"f": "04c1e26d08.mp3",
+"d": 1.176,
+"kind": "d",
+"voice": "hm_psi"
+},
+"@arjun|Seriously? Fine. I'll wait.": {
+"f": "852cfe8e3c.mp3",
+"d": 1.896,
+"kind": "d",
+"voice": "hm_psi"
+},
+"@mira|I read 500": {
+"f": "178d1f4aab.mp3",
+"d": 1.344,
+"kind": "d",
+"voice": "af_heart"
+},
+"@arjun|I read 500": {
+"f": "2933917fe5.mp3",
+"d": 1.584,
+"kind": "d",
+"voice": "hm_psi"
+},
+"@mira|500 − 200 = 300": {
+"f": "f7886f80bc.mp3",
+"d": 2.688,
+"kind": "d",
+"voice": "af_heart"
+},
+"@arjun|500 + 100 = 600": {
+"f": "2d19b43531.mp3",
+"d": 2.736,
+"kind": "d",
+"voice": "hm_psi"
+},
+"@mira|Manager! Notebook to the storeroom. Now, please.": {
+"f": "e370edd00e.mp3",
+"d": 3.048,
+"kind": "d",
+"voice": "af_heart"
+},
+"@e0|Done with #813!": {
+"f": "ffa73f1d3a.mp3",
+"d": 1.512,
+"kind": "d",
+"voice": "am_liam"
+},
+"@e1|Done with #814!": {
+"f": "875cdd01ea.mp3",
+"d": 1.536,
+"kind": "d",
+"voice": "af_river"
+},
+"@manager|Done. Safe on disk.": {
+"f": "2d727694c0.mp3",
+"d": 1.8,
+"kind": "d",
+"voice": "bm_george"
+},
+"@arjun|Finally! 300 plus 100 is 400.": {
+"f": "a9a248947b.mp3",
+"d": 3.576,
+"kind": "d",
+"voice": "hm_psi"
+},
+"@priya|Payment failed. Try again?": {
+"f": "0e2bd03bde.mp3",
+"d": 1.8,
+"kind": "d",
+"voice": "hf_alpha"
+},
+"@supervisor|Manager: save page 42 to disk.": {
+"f": "d6daacd4e2.mp3",
+"d": 2.448,
+"kind": "d",
+"voice": "am_eric"
+},
+"@cleaner|Nobody needs this old one now.": {
+"f": "0dfbe832e3.mp3",
+"d": 2.352,
+"kind": "d",
+"voice": "am_echo"
+},
+"@supervisor|Manager: save page 88, please.": {
+"f": "2c7600027d.mp3",
+"d": 2.352,
+"kind": "d",
+"voice": "am_eric"
+},
+"@manager|Disk error!": {
+"f": "a62ede75a0.mp3",
+"d": 1.2,
+"kind": "d",
+"voice": "bm_george"
+},
+"@supervisor|Try again?": {
+"f": "42b836d84c.mp3",
+"d": 1.008,
+"kind": "d",
+"voice": "am_eric"
+},
+"@manager|All good!": {
+"f": "6a20de855e.mp3",
+"d": 1.08,
+"kind": "d",
+"voice": "bm_george"
+},
+"@mira|Pages 43 to 50, please. I’ll keep working.": {
+"f": "3ad88c92e1.mp3",
+"d": 3.192,
+"kind": "d",
+"voice": "af_heart"
+}
+}

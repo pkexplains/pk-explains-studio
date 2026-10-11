@@ -1,0 +1,49 @@
+{
+ "note": "Regex -> spoken form. Applied to every narrator and cast line in every episode.",
+ "rules": [
+  [
+   "PostgreSQL 18",
+   "Postgres Q L eighteen"
+  ],
+  [
+   "PostgreSQL",
+   "Postgres Q L"
+  ],
+  [
+   "UPDATE 1",
+   "Update one"
+  ],
+  [
+   "\\bMVCC\\b",
+   "M V C C"
+  ],
+  [
+   "PgBouncer",
+   "P G Bouncer"
+  ],
+  [
+   "fdatasync",
+   "F data sync"
+  ],
+  [
+   "autovacuum",
+   "auto vacuum"
+  ],
+  [
+   "\\bWAL\\b",
+   "wall"
+  ],
+  [
+   "Priya",
+   "Preeya"
+  ],
+  [
+   "Arjun",
+   "Arjoon"
+  ],
+  [
+   "…",
+   ", "
+  ]
+ ]
+}

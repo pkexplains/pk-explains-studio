@@ -1,0 +1,48 @@
+/* ---- film look: grade, vignette, grain, scope letterbox ---- */
+.grade{position:absolute;inset:0;z-index:2;pointer-events:none;mix-blend-mode:soft-light;opacity:0;transition:opacity 2.4s ease,background 2.4s ease}
+.g-warm .grade{opacity:.55;background:linear-gradient(160deg,#ffb36b 0%,#ff8a4c 45%,#1b3550 100%)}
+.g-teal .grade{opacity:.6;background:linear-gradient(160deg,#ff9a5c 0%,#2a6f7f 55%,#0b2233 100%)}
+.g-cold .grade{opacity:.6;background:linear-gradient(180deg,#7fb6d6 0%,#2b5a78 60%,#0a1824 100%)}
+.g-noir .grade{opacity:.75;background:linear-gradient(180deg,#9aa6b8 0%,#2d3442 70%,#05070b 100%)}
+.g-dawn .grade{opacity:.5;background:linear-gradient(170deg,#ffd9a0 0%,#f2a07b 50%,#4b3b6b 100%)}
+.g-noir #world{filter:saturate(.45) contrast(1.12)}
+.vignette{position:absolute;inset:0;z-index:2;pointer-events:none;background:radial-gradient(ellipse 75% 70% at 50% 48%,rgba(0,0,0,0) 55%,rgba(0,0,0,.5) 100%)}
+.grain{position:absolute;inset:-60px;z-index:2;pointer-events:none;opacity:.075;mix-blend-mode:overlay;
+  background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='220' height='220'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 .5  0 0 0 0 .5  0 0 0 0 .5  0 0 0 1.4 -.2'/></filter><rect width='220' height='220' filter='url(%23n)'/></svg>");
+  animation:grain .5s steps(5) infinite}
+@keyframes grain{0%{transform:translate(0,0)}20%{transform:translate(-22px,14px)}40%{transform:translate(18px,-26px)}60%{transform:translate(-30px,-8px)}80%{transform:translate(26px,22px)}100%{transform:translate(0,0)}}
+.lb{position:absolute;left:0;right:0;height:0;background:#000;z-index:5;pointer-events:none;transition:height 1.6s cubic-bezier(.6,0,.3,1)}
+.lb-t{top:0}.lb-b{bottom:0}
+.scope .lb{height:7.2cqw}
+.scope .bar.top{opacity:0;transition:opacity .8s}
+.bar.top{transition:opacity .8s}
+/* ---- acting: blink, breathe, arm swing, anticipation, sleep ---- */
+.eye{transform-box:fill-box;transform-origin:50% 50%;animation:blink 5.2s infinite}
+@keyframes blink{0%,94%,100%{transform:scaleY(1)}96.5%{transform:scaleY(.08)}}
+.sleep .eye{animation:none;transform:scaleY(.12)}
+.brow{fill:none;stroke:#14121D;stroke-width:3;stroke-linecap:round;opacity:0;transition:opacity .2s}
+.bodyg{transform-box:view-box;transform-origin:0 0}
+.char:not(.walk):not(.lit) .bodyg{animation:breathe 3.4s ease-in-out infinite}
+@keyframes breathe{0%,100%{transform:translateY(0)}50%{transform:translateY(-1.6px)}}
+.arm{transform-box:fill-box;transform-origin:50% 8%}
+.walk .armF{animation:swing .5s ease-in-out infinite}.walk .armB{animation:swing .5s ease-in-out infinite reverse}
+@keyframes swing{0%,100%{transform:rotate(16deg)}50%{transform:rotate(-16deg)}}
+.antic .bodyg{animation:none!important;transform:translateY(5px) scaleY(.98);transition:transform .12s}
+.lit .bodyg{transform-origin:0 0}
+@media (prefers-reduced-motion:reduce){.grain,.eye,.char .bodyg,.walk .armF,.walk .armB{animation:none!important}}
+/* ---- narration booth ---- */
+details.booth{border:1px solid var(--edge);border-radius:12px;padding:12px 18px;background:#1A1726}
+details.booth summary{cursor:pointer;font:700 15px var(--body)}
+.boothbar{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin:12px 0}
+.boothbar button,.take button{font:700 13px var(--body);color:var(--paper);background:#221F33;border:1px solid var(--edge);border-radius:999px;padding:7px 14px;cursor:pointer}
+.boothbar button[aria-pressed="true"]{background:#2E3B5C;border-color:var(--os)}
+.boothbar button:focus-visible,.take button:focus-visible{outline:2px solid var(--os);outline-offset:2px}
+.boothmsg{color:var(--muted);font-size:13px;max-width:70ch}
+.takes{display:flex;flex-direction:column;gap:8px;max-height:460px;overflow:auto;padding-right:6px}
+.take{display:grid;grid-template-columns:2.4em 1fr auto;gap:10px;align-items:center;padding:8px 10px;border-radius:8px;background:#15131F}
+.take .k{font:700 12px var(--mono);color:var(--muted)}
+.take p{margin:0;font-size:15px;line-height:1.45;color:#E3DEEE}
+.take .act{display:flex;gap:6px}
+.take.has .k{color:var(--disk)}
+.take button.rec[aria-pressed="true"]{background:var(--alarm);border-color:var(--alarm);color:#fff}
+@media (prefers-reduced-motion:reduce){.walk .bodyg,.walk .legA,.walk .legB,.zzz,.cpu.lit:not(.walk) .bodyg{animation:none}}

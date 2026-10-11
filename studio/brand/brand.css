@@ -1,0 +1,16 @@
+/* PK Explains brand: grounded, flat, professional. Logo = amber tile with PK + "PK Explains" wordmark on navy. */
+:root{--pk-navy:#121E3B;--pk-amber:#EAAA45;--pk-white:#F7F7F5;--pk-mist:#CBD1E2;--pk-font:'Lexend','Inter','Segoe UI',Arial,sans-serif}
+.pk-tile{display:grid;place-items:center;aspect-ratio:1;background:var(--pk-amber);border-radius:21%;color:var(--pk-navy);font:700 1em/1 var(--pk-font);letter-spacing:-.01em}
+.pk-tile span{font-size:.5em;transform:translateY(.03em)}
+.pk-word{font:400 1em/1 var(--pk-font);color:var(--pk-mist);letter-spacing:.01em;white-space:nowrap}
+.pk-word b{font-weight:700;color:var(--pk-white);margin-right:.28em}
+.pk-lockup{display:flex;align-items:center;gap:.3em}
+.bug{position:absolute;top:1.1cqw;right:1.3cqw;width:2.9cqw;font-size:2.9cqw;z-index:7;opacity:.55;transition:opacity .6s;pointer-events:none}
+.bug.off{opacity:0}
+.frame.brand .bar{opacity:0}
+.ident,.endslate{position:absolute;inset:0;z-index:9;background:var(--pk-navy);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2.2cqw}
+.ident .pk-lockup,.endslate .pk-lockup{font-size:8cqw}
+.ident .pk-tile,.endslate .pk-tile{width:1.05em;font-size:1em}
+.ident .pk-word,.endslate .pk-word{font-size:.52em}
+.ident .pk-tile,.ident .pk-word{transition:none}
+.endslate .p3{font:500 clamp(8px,1.05cqw,18px)/1.4 var(--pk-font);letter-spacing:.24em;text-transform:uppercase;color:var(--pk-mist);opacity:.7}

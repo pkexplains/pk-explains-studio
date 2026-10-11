@@ -1,0 +1,37 @@
+Priya pays ₹200 for a train ticket. Her app says "Payment successful." One millisecond later, the power goes out. Is her money safe?
+
+This animated film follows that one payment through a computer, told as one night in a restaurant kitchen. The operating system runs the building. PostgreSQL is the catering staff working inside it. By the end you'll know what really happens between tapping Pay and seeing "done", and why the money survives the blackout.
+
+Chapters
+0:00 Two words
+1:03 The kitchen
+2:34 The hire
+4:15 Reading the order
+4:38 The hunt for page 42
+5:42 Two versions
+6:46 The notebook
+7:49 The rival
+8:48 The trip to disk
+10:59 What survived
+12:30 Another ending
+13:11 The night shift
+14:42 Based on a true story
+15:52 Who played whom
+16:21 One more thing
+
+Who's who
+Mira, the chef: a PostgreSQL backend process
+The Host: the postmaster
+The Manager: the operating system kernel
+The work lamps: CPU cores
+The fridge: RAM (shared buffers and the OS page cache)
+The storeroom: the disk
+The notebook: the write-ahead log (WAL)
+The Supervisor: the checkpointer
+The Cleaner: autovacuum
+
+Next episode: Cooking without waiting (asynchronous I/O in PostgreSQL 18).
+
+A PK Films Production. © 2026 PK Films
+
+#PostgreSQL #OperatingSystems #Databases

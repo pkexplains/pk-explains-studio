@@ -1,0 +1,15 @@
+{
+ "number": 1,
+ "slug": "ep01-kitchen-that-never-forgets",
+ "title": "The Kitchen That Never Forgets",
+ "lede": "A short animated film about one bank payment and what a computer does to keep its promise. Story cut for everyone; switch on Engineer's cut for every technical detail.",
+ "logline": "Follow one bank payment through a computer, from tapping Pay to a power cut.",
+ "topic": "OS processes, page cache, PostgreSQL shared buffers, MVCC, row locks, WAL, group commit, crash recovery, checkpoints, autovacuum, fsyncgate",
+ "next": "Cooking without waiting (asynchronous I/O in PostgreSQL 18)",
+ "youtube": {
+  "video_id": "v3bqCk8m6fw",
+  "short_id": "gpmp5vO3kTU",
+  "published": "2026-10-11",
+  "playlist": "PK Explains: How Things Really Work"
+ }
+}

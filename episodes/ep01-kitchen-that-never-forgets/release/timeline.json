@@ -1,0 +1,907 @@
+[
+[
+"chap",
+0.1,
+"PK Explains · Opening logo"
+],
+[
+"chap",
+3.8,
+"Cold open · Two words"
+],
+[
+"cap",
+5.5,
+"This is Priya. She has just paid two hundred rupees for a train ticket, from her banking app."
+],
+[
+"cap",
+12.7,
+"Payment successful. Behind that screen, the bank's database sent back two words: UPDATE 1. Meaning: done. Saved. It will stay that way."
+],
+[
+"cap",
+24.3,
+"One millisecond later, the power went out."
+],
+[
+"cap",
+28.9,
+"So, is Priya's money safe?"
+],
+[
+"cap",
+33.2,
+"It is. But here's the twist. When the bank said done, her new balance had not been saved anywhere permanent. Not yet."
+],
+[
+"cap",
+43.7,
+"So how can a bank promise something it hasn't saved? This happens every time you tap Pay. It takes a few milliseconds. Let's slow it right down."
+],
+[
+"cap",
+54.5,
+""
+],
+[
+"chap",
+63.1,
+"Act one · The order · The kitchen"
+],
+[
+"cap",
+67.7,
+"Every computer works a lot like a restaurant kitchen. This one belongs to Priya's bank, and it's busy, even late at night."
+],
+[
+"cap",
+80,
+"It has only four work lamps. A chef can only work while a lamp shines on her."
+],
+[
+"cap",
+85.6,
+"There are more chefs than lamps, so the lamps keep hopping from chef to chef. Everyone gets a turn."
+],
+[
+"cap",
+93.9,
+"No lamp, no work. Remember that."
+],
+[
+"cap",
+100.7,
+"This is the fridge. Everything in here is quick to grab. But the moment the power goes out, the fridge forgets everything."
+],
+[
+"cap",
+112.2,
+"And this is the storeroom. Anything in here survives a power cut. But it's a long, slow walk away."
+],
+[
+"cap",
+124.3,
+""
+],
+[
+"bub",
+129.4,
+"Ask me first. Always."
+],
+[
+"cap",
+131.7,
+"And this is the Manager. He runs the building. Nobody touches a lamp, a shelf or the storeroom without asking him."
+],
+[
+"bub",
+132.5,
+""
+],
+[
+"cap",
+143.2,
+"Keep your eye on two places: the fridge and the storeroom. This whole story is about which one Priya's money is in. We'll keep score at the top of the screen."
+],
+[
+"chap",
+154.3,
+"Act one · The order · The hire"
+],
+[
+"cap",
+159.7,
+""
+],
+[
+"cap",
+164.8,
+"Priya's payment arrives at the door of the bank's database. It's called PostgreSQL. Picture it as a catering company that rents this kitchen. Its staff wear coral."
+],
+[
+"cap",
+176.2,
+""
+],
+[
+"cap",
+181.3,
+"The Host greets every new customer, but he never cooks. Instead, he asks the Manager for an exact copy of himself."
+],
+[
+"bub",
+190.8,
+"Manager: copy me, please."
+],
+[
+"bub",
+193.7,
+""
+],
+[
+"cap",
+194.8,
+""
+],
+[
+"bub",
+199.9,
+"Hi Priya! I'm all yours."
+],
+[
+"cap",
+201.8,
+"That copy becomes Mira: a brand new chef, just for Priya. Computer people call her a process. Making the copy is called a fork."
+],
+[
+"bub",
+203.1,
+""
+],
+[
+"cap",
+211,
+"One chef per customer has a big upside: if another chef burns something, Mira's work is safe."
+],
+[
+"cap",
+222.7,
+"No order yet, so Mira dozes off, and her lamp goes to someone busier. Computer people call this waiting."
+],
+[
+"cap",
+232.9,
+"Then the order arrives. It looks scary, but it only says: take two hundred rupees from Priya."
+],
+[
+"bub",
+242.3,
+"Mira! Wake up!"
+],
+[
+"bub",
+243.3,
+"Mira! Wake up! || READY"
+],
+[
+"cap",
+244,
+"The Manager wakes her. She's ready to go, but she still needs a lamp."
+],
+[
+"bub",
+244.8,
+"READY"
+],
+[
+"cap",
+250.5,
+"There. Lamp on. Now she can work."
+],
+[
+"bub",
+250.5,
+""
+],
+[
+"chap",
+255.3,
+"Act one · The order · Reading the order"
+],
+[
+"bub",
+257.1,
+"Where does Priya's account live?"
+],
+[
+"cap",
+258.9,
+"First, Mira has to find Priya's account. The bank keeps an index, just like the index at the back of a book. It says: Priya is on page 42."
+],
+[
+"bub",
+260.5,
+""
+],
+[
+"bub",
+269.5,
+"Page 42!"
+],
+[
+"cap",
+270.8,
+"Page 42. But where is it right now? In the fridge? Or out in the storeroom?"
+],
+[
+"bub",
+271.9,
+""
+],
+[
+"chap",
+278.5,
+"Act one · The order · The hunt for page 42"
+],
+[
+"cap",
+281.6,
+"She checks the company's own shelf in the fridge first."
+],
+[
+"cap",
+285.3,
+"Not there."
+],
+[
+"bub",
+287,
+"Manager, can you fetch page 42?"
+],
+[
+"bub",
+290,
+""
+],
+[
+"cap",
+292,
+"The Manager keeps a shelf of his own in the fridge, too. Not there either."
+],
+[
+"bub",
+297.3,
+"The storeroom? Ugh. Long walk."
+],
+[
+"cap",
+299.9,
+"So the Manager has to walk all the way to the storeroom. Mira can't do a thing until he's back, so she naps, and her lamp goes to another chef."
+],
+[
+"bub",
+300.7,
+""
+],
+[
+"cap",
+309.5,
+"How long is this walk? If every move under a lamp took one second, this one trip would take days."
+],
+[
+"cap",
+323.6,
+"He's back with page 42, and puts it on the company shelf. Look at the score: Priya's account is in the fridge now, saying 500."
+],
+[
+"bub",
+333.1,
+"READY"
+],
+[
+"bub",
+335.9,
+""
+],
+[
+"bub",
+339.5,
+"Hands off, everyone. Writing!"
+],
+[
+"bub",
+342.5,
+""
+],
+[
+"chap",
+342.8,
+"Act two · The change · Two versions"
+],
+[
+"cap",
+342.8,
+""
+],
+[
+"cap",
+347.2,
+"Now Mira makes the change, very carefully."
+],
+[
+"cap",
+350.8,
+"First she stamps Priya's card: mine, until order 812 is finished. That stamp is a lock. Anyone else who wants this card has to wait. Remember that."
+],
+[
+"cap",
+362.2,
+"Then, instead of rubbing out 500, she writes a brand new card: 300. The old card stays where it is."
+],
+[
+"cap",
+372.9,
+""
+],
+[
+"bub",
+379,
+"Still counting… Priya: 500"
+],
+[
+"cap",
+381.4,
+"Why keep the old card? Because of Leela. She's halfway through adding up every account for a monthly report. If Priya's 500 turned into 300 in the middle of her count, her totals would not add up."
+],
+[
+"bub",
+382.6,
+""
+],
+[
+"cap",
+395.8,
+"So Leela keeps reading the old card, Mira writes the new one, and nobody waits for anybody."
+],
+[
+"cap",
+402.9,
+"The old card will need cleaning up later."
+],
+[
+"chap",
+406.8,
+"Act two · The change · The notebook"
+],
+[
+"cap",
+409.3,
+""
+],
+[
+"cap",
+414.3,
+"Now, the most important habit in this kitchen. It's the secret to the whole story."
+],
+[
+"cap",
+420.9,
+"Before any change counts, it must be written in the company notebook. Not the page itself, just a short note about the change."
+],
+[
+"cap",
+432.3,
+"This is the first change to page 42 since the last checkpoint, the last time everything was fully saved. So Mira also copies the entire page into the notebook. Seems like overkill. Remember it anyway."
+],
+[
+"cap",
+447.6,
+"Then the note itself: page 42, Priya, now 300, order 812."
+],
+[
+"cap",
+453.9,
+"But look at the score: the notebook is still in the fridge. Nothing has reached the storeroom yet."
+],
+[
+"cap",
+463.8,
+"She sticks a reminder on page 42: changed, but not saved."
+],
+[
+"chap",
+469.8,
+"Act two · The change · The rival"
+],
+[
+"cap",
+472.4,
+""
+],
+[
+"bub",
+477.4,
+"Cashback time!"
+],
+[
+"cap",
+478.7,
+"Meanwhile, Arjun, one of the chefs at the counter, has an order for the very same account: a hundred rupees cashback for Priya."
+],
+[
+"bub",
+480.2,
+""
+],
+[
+"cap",
+491.1,
+"He finds Mira's stamp: order 812, not finished."
+],
+[
+"bub",
+495.6,
+"Seriously? Fine. I'll wait."
+],
+[
+"bub",
+498.8,
+""
+],
+[
+"bub",
+500.5,
+"I read 500 || I read 500"
+],
+[
+"cap",
+502.3,
+"Picture it without the stamp. Both chefs read 500."
+],
+[
+"bub",
+503.1,
+""
+],
+[
+"bub",
+506.9,
+"500 − 200 = 300"
+],
+[
+"bub",
+509.3,
+"500 − 200 = 300 || 500 + 100 = 600"
+],
+[
+"bub",
+510.2,
+"500 + 100 = 600"
+],
+[
+"cap",
+512.2,
+"Mira writes 300. Then Arjun writes 600. Mira's payment just vanished. The train company never gets paid. Engineers call this a lost update."
+],
+[
+"bub",
+512.6,
+""
+],
+[
+"cap",
+525.4,
+"That's why Arjun waits."
+],
+[
+"chap",
+528.7,
+"Act three · The promise · The trip to disk"
+],
+[
+"cap",
+528.7,
+""
+],
+[
+"cap",
+533.2,
+"Quick recap. Priya's new balance, 300, exists only in the fridge. One power cut, and it's gone. So how can the bank tell Priya done, right now?"
+],
+[
+"cap",
+544.7,
+"Mira writes one final note: order 812, finished."
+],
+[
+"cap",
+551.7,
+"Here's the trick. She doesn't carry page 42 to the storeroom. A payment can touch pages all over the place, and there are thousands of them."
+],
+[
+"cap",
+561.4,
+"But the notes all sit together, on one notebook page. So she only sends the notebook. One small, quick trip."
+],
+[
+"bub",
+569.4,
+"Manager! Notebook to the storeroom. Now, please."
+],
+[
+"cap",
+572.6,
+"She asks the Manager to save the notebook to disk."
+],
+[
+"bub",
+573,
+""
+],
+[
+"cap",
+576.3,
+"And then she waits. Every payment you have ever made has waited for this one trip."
+],
+[
+"bub",
+586,
+"Done with #813! || Done with #814!"
+],
+[
+"cap",
+587.7,
+"Two other chefs finish at the same moment. The Manager takes all their notes in the same trip. That's called group commit."
+],
+[
+"bub",
+588.7,
+""
+],
+[
+"cap",
+600.2,
+"The notes are in the storeroom. Now, even if the lights go out, Priya's payment can be rebuilt from them."
+],
+[
+"bub",
+610.8,
+"Done. Safe on disk."
+],
+[
+"bub",
+612.1,
+"Done. Safe on disk. || READY"
+],
+[
+"bub",
+613.6,
+"READY"
+],
+[
+"bub",
+614.7,
+""
+],
+[
+"cap",
+617.1,
+""
+],
+[
+"cap",
+622.2,
+"Only now does Mira mark order 812 as done, in the company ledger."
+],
+[
+"bub",
+631.6,
+"Finally! 300 plus 100 is 400."
+],
+[
+"cap",
+635.3,
+"Order 812 is finished, so Arjun wakes up. He sees the new 300, and adds his cashback on top: 400. His order is not finished yet."
+],
+[
+"bub",
+635.8,
+""
+],
+[
+"cap",
+650.3,
+"And Mira tells Priya: done. UPDATE 1."
+],
+[
+"cap",
+655.4,
+"Which is exactly where our story began."
+],
+[
+"chap",
+659.5,
+"Act four · The blackout · What survived"
+],
+[
+"cap",
+660.3,
+"And then, the lights go out."
+],
+[
+"cap",
+666,
+"Look inside the storeroom. Mira's notes are here. And page 42? Still says 500."
+],
+[
+"cap",
+677.9,
+"The 300 only ever lived in the fridge. And the fridge has just forgotten everything."
+],
+[
+"cap",
+685.8,
+"So, did the bank just lie to Priya?"
+],
+[
+"cap",
+690.3,
+""
+],
+[
+"cap",
+702.1,
+"When the power comes back, a recovery chef opens the notebook and replays every note, in order."
+],
+[
+"cap",
+716.1,
+"First, it fetches page 42 from the storeroom. It says 500."
+],
+[
+"cap",
+723.1,
+"Then it finds the full-page copy Mira made. Remember it? Page 42 comes back exactly as she left it: 300."
+],
+[
+"cap",
+732.4,
+"Order 812: done. Priya's money is safe. The notebook kept the promise."
+],
+[
+"cap",
+739.4,
+"And Arjun's cashback? It was never finished, and its note never reached the storeroom. So it simply never happened. His app tries again."
+],
+[
+"chap",
+750.2,
+"Act four · The blackout · Another ending"
+],
+[
+"cap",
+751.1,
+"Now imagine the lights went out a moment earlier, while the Manager was still walking with the notebook."
+],
+[
+"bub",
+765.6,
+"Payment failed. Try again?"
+],
+[
+"cap",
+767.6,
+"Then Priya never hears done. Her app shows an error, her balance is still 500, and she simply taps Pay again."
+],
+[
+"bub",
+769.3,
+""
+],
+[
+"cap",
+776.2,
+"No promise was made, so no promise was broken."
+],
+[
+"cap",
+782,
+"That's the whole secret. The bank only says done once the note about the change is safe in the storeroom."
+],
+[
+"chap",
+791.6,
+"Epilogue · The night shift"
+],
+[
+"cap",
+791.6,
+""
+],
+[
+"cap",
+803.6,
+"Later that night, the clean-up crew arrives. Every few minutes, the Supervisor makes sure every changed page really gets carried to the storeroom."
+],
+[
+"bub",
+814.6,
+"Manager: save page 42 to disk."
+],
+[
+"bub",
+817.8,
+""
+],
+[
+"cap",
+827.7,
+"What if the lights go out halfway through this delivery? Page 42 could land half old, half new. Torn. A short note can't fix that."
+],
+[
+"cap",
+839.3,
+"But the full-page copy can. That's exactly why Mira made it."
+],
+[
+"cap",
+847.3,
+"This time all goes well. Look at the score: page 42 is finally in the storeroom, saying 300."
+],
+[
+"cap",
+856.5,
+"And old notebook pages, no longer needed, can finally be thrown away."
+],
+[
+"cap",
+868.1,
+""
+],
+[
+"bub",
+873.2,
+"Nobody needs this old one now."
+],
+[
+"cap",
+875.7,
+"Last, the Cleaner sweeps away the old 500 card. Nobody needs it anymore."
+],
+[
+"bub",
+876.2,
+""
+],
+[
+"chap",
+882.7,
+"Epilogue · Based on a true story"
+],
+[
+"cap",
+882.7,
+""
+],
+[
+"cap",
+887.2,
+"This whole story rests on trust. When the Manager says it's in the storeroom, it has to be true. In 2018, engineers found that it wasn't always."
+],
+[
+"bub",
+898.7,
+"Manager: save page 88, please."
+],
+[
+"bub",
+901.9,
+""
+],
+[
+"bub",
+903.8,
+"Disk error!"
+],
+[
+"cap",
+905.1,
+"A delivery to the storeroom failed. The Manager reported the error, once."
+],
+[
+"bub",
+906.2,
+""
+],
+[
+"cap",
+914.5,
+"Then, on Linux, he could quietly mark the page as fine, and later drop it from his shelf."
+],
+[
+"bub",
+922.4,
+"Try again?"
+],
+[
+"bub",
+923.9,
+"Try again? || All good!"
+],
+[
+"bub",
+924.8,
+"All good!"
+],
+[
+"cap",
+925.2,
+"PostgreSQL asked again. This time the Manager said all good. The page never reached the storeroom."
+],
+[
+"bub",
+926.6,
+""
+],
+[
+"cap",
+934.7,
+"Today, if this ever happens, PostgreSQL stops on purpose, restarts, and rebuilds everything from the notebook."
+],
+[
+"cap",
+947.4,
+"A promise is only as strong as the promises underneath it."
+],
+[
+"chap",
+952.8,
+"Credits · Who played whom"
+],
+[
+"cap",
+952.8,
+"Every character tonight was a real part of your computer, and of PostgreSQL."
+],
+[
+"chap",
+981.6,
+"After the credits · One more thing"
+],
+[
+"cap",
+982.8,
+"One more thing. Tonight, every time Mira needed the storeroom, she had to stop and wait."
+],
+[
+"bub",
+989.8,
+"Pages 43 to 50, please. I’ll keep working."
+],
+[
+"cap",
+993.1,
+"Since PostgreSQL 18, for big jobs like reading a whole table, PostgreSQL can ask for many pages ahead of time, and keep working while they arrive."
+],
+[
+"bub",
+993.6,
+""
+],
+[
+"cap",
+1005.5,
+""
+],
+[
+"chap",
+1011.3,
+"PK Explains · End slate"
+],
+[
+"end",
+1017.3,
+""
+]
+]

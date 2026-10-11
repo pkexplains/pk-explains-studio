@@ -1,0 +1,27 @@
+<!doctype html><html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Lexend:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+:root{--navy:#121E3B;--amber:#EAAA45;--white:#F7F7F5;--mist:#CBD1E2}
+*{margin:0;box-sizing:border-box}body{background:transparent;font-family:Lexend,sans-serif}
+.tile{display:grid;place-items:center;background:var(--amber);border-radius:21%;color:var(--navy);font-weight:700;letter-spacing:-.01em;line-height:1}
+.tile span{transform:translateY(.03em)}
+#avatar{width:800px;height:800px;background:var(--navy);display:grid;place-items:center}
+#avatar .tile{width:520px;height:520px;font-size:250px}
+#wm{width:150px;height:150px;display:grid;place-items:center}
+#wm .tile{width:150px;height:150px;font-size:72px}
+#banner{width:2560px;height:1440px;background:radial-gradient(ellipse 60% 55% at 50% 50%,#17264A 0%,#121E3B 70%,#0E1830 100%);position:relative;display:grid;place-items:center;overflow:hidden}
+#banner .lock{display:flex;align-items:center;gap:56px}
+#banner .tile{width:200px;height:200px;font-size:96px}
+#banner .word{font-size:132px;color:var(--mist);font-weight:400;letter-spacing:.01em;white-space:nowrap}
+#banner .word b{color:var(--white);font-weight:700;margin-right:.26em}
+#banner .inner{display:flex;flex-direction:column;align-items:center;gap:44px}
+#banner .tag{font-size:40px;color:var(--mist);opacity:.8;letter-spacing:.02em}
+#banner .rule{width:120px;height:4px;background:var(--amber);border-radius:2px;opacity:.9}
+#banner .grid{position:absolute;inset:0;background-image:linear-gradient(rgba(203,209,226,.035) 1px,transparent 1px),linear-gradient(90deg,rgba(203,209,226,.035) 1px,transparent 1px);background-size:64px 64px}
+.safe{position:absolute;left:507px;top:508px;width:1546px;height:423px;outline:3px dashed red;display:none}
+.showsafe .safe{display:block}
+</style></head><body>
+<div id="avatar"><div class="tile"><span>PK</span></div></div>
+<div id="wm"><div class="tile"><span>PK</span></div></div>
+<div id="banner"><div class="grid"></div><div class="inner"><div class="lock"><div class="tile"><span>PK</span></div><div class="word"><b>PK</b>Explains</div></div><div class="rule"></div><div class="tag">Short animated films on how things really work</div></div><div class="safe"></div></div>
+</body></html>

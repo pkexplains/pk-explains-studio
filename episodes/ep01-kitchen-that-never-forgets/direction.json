@@ -1,0 +1,440 @@
+{
+ "pronounce": [
+  [
+   "\\b2018\\b",
+   "twenty eighteen"
+  ],
+  [
+   "\\b812\\b",
+   "eight twelve"
+  ],
+  [
+   "#813",
+   "eight thirteen"
+  ],
+  [
+   "#814",
+   "eight fourteen"
+  ],
+  [
+   "\\b([Pp])ages? 43 to 50\\b",
+   "\\1ages forty-three to fifty"
+  ],
+  [
+   "\\b([Pp])age 42\\b",
+   "\\1age forty-two"
+  ],
+  [
+   "500 − 200 = 300",
+   "Five hundred, minus two hundred... three hundred."
+  ],
+  [
+   "500 \\+ 100 = 600",
+   "Five hundred, plus a hundred... six hundred!"
+  ]
+ ],
+ "direct": {
+  "One millisecond later, the power went out.": [
+   [
+    "One millisecond later,",
+    "warm",
+    380
+   ],
+   [
+    "the power went out.",
+    "grave",
+    0
+   ]
+  ],
+  "So, is Priya's money safe?": [
+   [
+    "So.",
+    "hush",
+    420
+   ],
+   [
+    "Is Priya's money safe?",
+    "hush",
+    0
+   ]
+  ],
+  "It is. But here's the twist. When the bank said done, her new balance had not been saved anywhere permanent. Not yet.": [
+   [
+    "It is.",
+    "bright",
+    520
+   ],
+   [
+    "But here's the twist.",
+    "hush",
+    450
+   ],
+   [
+    "When the bank said done, her new balance had not been saved anywhere permanent.",
+    "grave",
+    620
+   ],
+   [
+    "Not yet.",
+    "hush",
+    0
+   ]
+  ],
+  "So how can a bank promise something it hasn't saved? This happens every time you tap Pay. It takes a few milliseconds. Let's slow it right down.": [
+   [
+    "So how can a bank promise something it hasn't saved?",
+    "grave",
+    600
+   ],
+   [
+    "This happens every time you tap Pay.",
+    "warm",
+    260
+   ],
+   [
+    "It takes a few milliseconds.",
+    "warm",
+    420
+   ],
+   [
+    "Let's slow it right down.",
+    "hush",
+    0
+   ]
+  ],
+  "No lamp, no work. Remember that.": [
+   [
+    "No lamp, no work.",
+    "bright",
+    380
+   ],
+   [
+    "Remember that.",
+    "hush",
+    0
+   ]
+  ],
+  "Not there.": [
+   [
+    "Not there.",
+    "beat",
+    0
+   ]
+  ],
+  "Now, the most important habit in this kitchen. It's the secret to the whole story.": [
+   [
+    "Now.",
+    "hush",
+    380
+   ],
+   [
+    "The most important habit in this kitchen.",
+    "hush",
+    420
+   ],
+   [
+    "It's the secret to the whole story.",
+    "hush",
+    0
+   ]
+  ],
+  "Mira writes 300. Then Arjun writes 600. Mira's payment just vanished. The train company never gets paid. Engineers call this a lost update.": [
+   [
+    "Mira writes 300.",
+    "urgent",
+    200
+   ],
+   [
+    "Then Arjun writes 600.",
+    "urgent",
+    650
+   ],
+   [
+    "Mira's payment just vanished.",
+    "grave",
+    420
+   ],
+   [
+    "The train company never gets paid.",
+    "grave",
+    380
+   ],
+   [
+    "Engineers call this a lost update.",
+    "aside",
+    0
+   ]
+  ],
+  "Quick recap. Priya's new balance, 300, exists only in the fridge. One power cut, and it's gone. So how can the bank tell Priya done, right now?": [
+   [
+    "Quick recap.",
+    "bright",
+    300
+   ],
+   [
+    "Priya's new balance, 300, exists only in the fridge.",
+    "warm",
+    260
+   ],
+   [
+    "One power cut, and it's gone.",
+    "grave",
+    520
+   ],
+   [
+    "So how can the bank tell Priya done, right now?",
+    "hush",
+    0
+   ]
+  ],
+  "Here's the trick. She doesn't carry page 42 to the storeroom. A payment can touch pages all over the place, and there are thousands of them.": [
+   [
+    "Here's the trick.",
+    "bright",
+    480
+   ],
+   [
+    "She doesn't carry page 42 to the storeroom.",
+    "warm",
+    300
+   ],
+   [
+    "A payment can touch pages all over the place, and there are thousands of them.",
+    "warm",
+    0
+   ]
+  ],
+  "And then she waits. Every payment you have ever made has waited for this one trip.": [
+   [
+    "And then...",
+    "hush",
+    350
+   ],
+   [
+    "she waits.",
+    "hush",
+    650
+   ],
+   [
+    "Every payment you have ever made has waited for this one trip.",
+    "wonder",
+    0
+   ]
+  ],
+  "And Mira tells Priya: done. UPDATE 1.": [
+   [
+    "And Mira tells Priya:",
+    "warm",
+    380
+   ],
+   [
+    "done.",
+    "bright",
+    350
+   ],
+   [
+    "UPDATE 1.",
+    "bright",
+    0
+   ]
+  ],
+  "Which is exactly where our story began.": [
+   [
+    "Which is exactly where our story began.",
+    "hush",
+    0
+   ]
+  ],
+  "And then, the lights go out.": [
+   [
+    "And then,",
+    "hush",
+    700
+   ],
+   [
+    "the lights go out.",
+    "grave",
+    0
+   ]
+  ],
+  "The 300 only ever lived in the fridge. And the fridge has just forgotten everything.": [
+   [
+    "The 300 only ever lived in the fridge.",
+    "grave",
+    450
+   ],
+   [
+    "And the fridge has just forgotten everything.",
+    "hush",
+    0
+   ]
+  ],
+  "So, did the bank just lie to Priya?": [
+   [
+    "So.",
+    "hush",
+    450
+   ],
+   [
+    "Did the bank just lie to Priya?",
+    "grave",
+    0
+   ]
+  ],
+  "Order 812: done. Priya's money is safe. The notebook kept the promise.": [
+   [
+    "Order 812:",
+    "wonder",
+    250
+   ],
+   [
+    "done.",
+    "bright",
+    500
+   ],
+   [
+    "Priya's money is safe.",
+    "wonder",
+    500
+   ],
+   [
+    "The notebook kept the promise.",
+    "wonder",
+    0
+   ]
+  ],
+  "No promise was made, so no promise was broken.": [
+   [
+    "No promise was made,",
+    "wonder",
+    300
+   ],
+   [
+    "so no promise was broken.",
+    "wonder",
+    0
+   ]
+  ],
+  "That's the whole secret. The bank only says done once the note about the change is safe in the storeroom.": [
+   [
+    "That's the whole secret.",
+    "wonder",
+    550
+   ],
+   [
+    "The bank only says done once the note about the change is safe in the storeroom.",
+    "wonder",
+    0
+   ]
+  ],
+  "What if the lights go out halfway through this delivery? Page 42 could land half old, half new. Torn. A short note can't fix that.": [
+   [
+    "What if the lights go out halfway through this delivery?",
+    "urgent",
+    420
+   ],
+   [
+    "Page 42 could land half old, half new.",
+    "grave",
+    400
+   ],
+   [
+    "Torn.",
+    "beat",
+    450
+   ],
+   [
+    "A short note can't fix that.",
+    "grave",
+    0
+   ]
+  ],
+  "But the full-page copy can. That's exactly why Mira made it.": [
+   [
+    "But the full-page copy can.",
+    "bright",
+    420
+   ],
+   [
+    "That's exactly why Mira made it.",
+    "wonder",
+    0
+   ]
+  ],
+  "This whole story rests on trust. When the Manager says it's in the storeroom, it has to be true. In 2018, engineers found that it wasn't always.": [
+   [
+    "This whole story rests on trust.",
+    "grave",
+    420
+   ],
+   [
+    "When the Manager says it's in the storeroom, it has to be true.",
+    "warm",
+    550
+   ],
+   [
+    "In 2018, engineers found that it wasn't always.",
+    "hush",
+    0
+   ]
+  ],
+  "PostgreSQL asked again. This time the Manager said all good. The page never reached the storeroom.": [
+   [
+    "PostgreSQL asked again.",
+    "warm",
+    300
+   ],
+   [
+    "This time the Manager said all good.",
+    "warm",
+    600
+   ],
+   [
+    "The page never reached the storeroom.",
+    "grave",
+    0
+   ]
+  ],
+  "A promise is only as strong as the promises underneath it.": [
+   [
+    "A promise is only as strong",
+    "wonder",
+    200
+   ],
+   [
+    "as the promises underneath it.",
+    "wonder",
+    0
+   ]
+  ],
+  "One more thing. Tonight, every time Mira needed the storeroom, she had to stop and wait.": [
+   [
+    "One more thing.",
+    "hush",
+    600
+   ],
+   [
+    "Tonight, every time Mira needed the storeroom, she had to stop and wait.",
+    "warm",
+    0
+   ]
+  ],
+  "How long is this walk? If every move under a lamp took one second, this one trip would take days.": [
+   [
+    "How long is this walk?",
+    "bright",
+    450
+   ],
+   [
+    "If every move under a lamp took one second,",
+    "warm",
+    200
+   ],
+   [
+    "this one trip would take days.",
+    "grave",
+    0
+   ]
+  ]
+ }
+}

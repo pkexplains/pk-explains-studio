@@ -1,0 +1,6 @@
+models/
+episodes/*/build/
+__pycache__/
+*.wav
+*.mkv
+.DS_Store

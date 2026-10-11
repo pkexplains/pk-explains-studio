@@ -1,0 +1,83 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>{{TITLE_HTML}}</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Figtree:wght@400;600;700&family=Lexend:wght@400;500;700&family=JetBrains+Mono:wght@500;700;800&display=swap">
+<style>
+{{INCLUDE studio/style/core-1.css}}
+{{INCLUDE studio/brand/brand.css}}
+{{INCLUDE studio/style/core-2.css}}
+</style>
+
+<div class="wrap">
+  <header class="top">
+    <h1>{{TITLE_HTML}}</h1>
+    <p>{{LEDE_HTML}}</p>
+  </header>
+  <div class="player">
+    <div class="stage" id="stage" tabindex="0" aria-label="Film stage. Space plays or pauses.">
+     <div class="frame" id="frame">
+{{INCLUDE studio/world/kitchen.svg}}
+{{EPISODE_WORLD_SVG}}
+      <div class="grade" id="grade" aria-hidden="true"></div><div class="vignette" aria-hidden="true"></div><div class="grain" aria-hidden="true"></div>
+      <div class="lb lb-t" aria-hidden="true"></div><div class="lb lb-b" aria-hidden="true"></div>
+      <div class="intro" id="intro"><div class="n" id="inN"></div><div class="r" id="inR"></div><div class="l" id="inL"></div></div>
+      <div class="wilabel" id="wilabel" hidden></div>
+      <div class="rwlabel" id="rwlabel" hidden>◀◀ A FEW MILLISECONDS EARLIER</div>
+      <div class="fade" id="fade"></div>
+      <div class="actcard" id="actcard" hidden><div class="a" id="acA"></div><div class="b" id="acB"></div><div class="q" id="acQ"></div></div>
+      <div class="titlecard" id="titlecard"><div class="tc-eyebrow" id="tcEb"></div><div class="tc-title" id="tcT"></div><div class="tc-sub" id="tcS"></div></div>
+      <div class="credits" id="credits" hidden><div class="roll" id="roll"></div></div>
+      <div class="ident" id="ident" hidden aria-label="PK Explains"><div class="pk-lockup"><div class="pk-tile"><span>PK</span></div><div class="pk-word"><b>PK</b>Explains</div></div></div>
+      <div class="endslate" id="endslate" hidden><div class="pk-lockup"><div class="pk-tile"><span>PK</span></div><div class="pk-word"><b>PK</b>Explains</div></div><div class="p3">A PK Films Production · © 2026</div></div>
+      <div class="bug" id="bug" aria-label="PK Explains"><div class="pk-tile"><span>PK</span></div></div>
+{{EPISODE_HUD}}
+      <div class="bar bottom"><div class="caption" id="caption" aria-live="polite"></div></div>
+      <button class="bigplay" id="bigplay" type="button">Play the film</button>
+     </div>
+    </div>
+    <div class="controls" role="toolbar" aria-label="Playback">
+      <button type="button" id="prev">Previous scene</button>
+      <button type="button" id="play" class="primary" aria-pressed="false">Play</button>
+      <button type="button" id="next">Next scene</button>
+      <button type="button" id="autoBtn" aria-pressed="true">Auto-advance</button>
+      <button type="button" id="engBtn" aria-pressed="false">Engineer's cut</button>
+      <button type="button" id="voiceBtn" aria-pressed="true">Narrator voice</button>
+      <button type="button" id="soundBtn" aria-pressed="true">Music &amp; effects</button>
+      <button type="button" id="capBtn" aria-pressed="true">Subtitles</button>
+      <button type="button" id="fsBtn">Full screen</button>
+      <button type="button" id="cleanBtn">Recording mode</button>
+    </div>
+    <ol class="chips" id="chips" aria-label="Scenes"></ol>
+    <p class="keys">Sound on: narrator, music and effects play after you press Play. <kbd>Space</kbd> play/pause · <kbd>←</kbd> <kbd>→</kbd> scenes · <kbd>C</kbd> subtitles · <kbd>H</kbd> recording mode · <kbd>F</kbd> full screen</p>
+    <details class="script" id="scriptBox">
+      <summary>Narration script for your voiceover</summary>
+      <div class="scriptbar"><button type="button" id="copyScript">Copy script</button><span id="copyMsg">Each line stays on screen long enough to be read aloud at a calm pace.</span></div>
+      <div class="sbody" id="sbody"></div>
+    </details>
+    <details class="booth" id="booth">
+      <summary>Narration booth · record the film in your own voice</summary>
+      <div class="boothbar">
+        <button type="button" id="ownBtn" aria-pressed="false">Play the film with my voice</button>
+        <button type="button" id="exportTakes">Save my takes (.json)</button>
+        <span class="boothmsg" id="boothMsg">Record each line in a quiet room, about 20 cm from the mic. Takes stay in this browser. Lines you haven't recorded fall back to the studio narrator.</span>
+      </div>
+      <div class="takes" id="takes"></div>
+    </details>
+  </div>
+</div>
+
+<script type="application/json" id="voiceData">__VOICE__</script>
+<script type="application/json" id="musicData">__MUSIC__</script>
+<script>
+const EPISODE={{EPISODE_JSON}};
+{{INCLUDE studio/engine/engine.js}}
+{{INCLUDE studio/world/cast.js}}
+{{EPISODE world.js}}
+{{INCLUDE studio/brand/brand.js}}
+{{INCLUDE studio/engine/sound.js}}
+{{EPISODE scenes.js}}
+{{EPISODE looks.js}}
+{{INCLUDE studio/engine/runner.js}}
+</script>

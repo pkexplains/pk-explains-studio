@@ -1,0 +1,108 @@
+{
+ "narrator": {
+  "voice": "am_michael",
+  "palette": {
+   "warm": [
+    0.97,
+    0
+   ],
+   "hush": [
+    0.86,
+    -3.5
+   ],
+   "grave": [
+    0.85,
+    -1
+   ],
+   "bright": [
+    1.06,
+    1
+   ],
+   "urgent": [
+    1.09,
+    1.5
+   ],
+   "wonder": [
+    0.9,
+    0
+   ],
+   "aside": [
+    1.03,
+    -1.5
+   ],
+   "beat": [
+    0.88,
+    0
+   ]
+  }
+ },
+ "cast": {
+  "mira": {
+   "voice": "af_heart",
+   "speed": 1.04,
+   "name": "Mira",
+   "plays": "a PostgreSQL backend process (one chef per customer)"
+  },
+  "priya": {
+   "voice": "hf_alpha",
+   "speed": 1.0,
+   "name": "Priya",
+   "plays": "the customer"
+  },
+  "leela": {
+   "voice": "hf_beta",
+   "speed": 0.98,
+   "name": "Leela",
+   "plays": "a long-running reporting query"
+  },
+  "arjun": {
+   "voice": "hm_psi",
+   "speed": 1.02,
+   "name": "Arjun",
+   "plays": "another backend with a competing update"
+  },
+  "manager": {
+   "voice": "bm_george",
+   "speed": 0.96,
+   "name": "The Manager",
+   "plays": "the operating system kernel"
+  },
+  "host": {
+   "voice": "bm_lewis",
+   "speed": 0.95,
+   "name": "The Host",
+   "plays": "the postmaster"
+  },
+  "supervisor": {
+   "voice": "am_eric",
+   "speed": 0.98,
+   "name": "The Supervisor",
+   "plays": "the checkpointer"
+  },
+  "cleaner": {
+   "voice": "am_echo",
+   "speed": 0.97,
+   "name": "The Cleaner",
+   "plays": "autovacuum"
+  },
+  "e0": {
+   "voice": "am_liam",
+   "speed": 1.08,
+   "name": "Chef (extra)",
+   "plays": "another backend"
+  },
+  "e1": {
+   "voice": "af_river",
+   "speed": 1.08,
+   "name": "Chef (extra)",
+   "plays": "another backend"
+  },
+  "startup": {
+   "voice": "af_sarah",
+   "speed": 1.0,
+   "name": "The Recovery Chef",
+   "plays": "the startup process (crash recovery)"
+  }
+ },
+ "rule": "A character's voice never changes once cast. New characters: pick an unused Kokoro voice, add here, keep it forever."
+}

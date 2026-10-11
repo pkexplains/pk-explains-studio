@@ -1,0 +1,118 @@
+[
+{
+"who": "manager",
+"text": "Ask me first. Always."
+},
+{
+"who": "host",
+"text": "Manager: copy me, please."
+},
+{
+"who": "mira",
+"text": "Hi Priya! I'm all yours."
+},
+{
+"who": "manager",
+"text": "Mira! Wake up!"
+},
+{
+"who": "mira",
+"text": "Where does Priya's account live?"
+},
+{
+"who": "mira",
+"text": "Page 42!"
+},
+{
+"who": "mira",
+"text": "Manager, can you fetch page 42?"
+},
+{
+"who": "manager",
+"text": "The storeroom? Ugh. Long walk."
+},
+{
+"who": "mira",
+"text": "Hands off, everyone. Writing!"
+},
+{
+"who": "leela",
+"text": "Still counting… Priya: 500"
+},
+{
+"who": "arjun",
+"text": "Cashback time!"
+},
+{
+"who": "arjun",
+"text": "Seriously? Fine. I'll wait."
+},
+{
+"who": "mira",
+"text": "I read 500"
+},
+{
+"who": "arjun",
+"text": "I read 500"
+},
+{
+"who": "mira",
+"text": "500 − 200 = 300"
+},
+{
+"who": "arjun",
+"text": "500 + 100 = 600"
+},
+{
+"who": "mira",
+"text": "Manager! Notebook to the storeroom. Now, please."
+},
+{
+"who": "e0",
+"text": "Done with #813!"
+},
+{
+"who": "e1",
+"text": "Done with #814!"
+},
+{
+"who": "manager",
+"text": "Done. Safe on disk."
+},
+{
+"who": "arjun",
+"text": "Finally! 300 plus 100 is 400."
+},
+{
+"who": "priya",
+"text": "Payment failed. Try again?"
+},
+{
+"who": "supervisor",
+"text": "Manager: save page 42 to disk."
+},
+{
+"who": "cleaner",
+"text": "Nobody needs this old one now."
+},
+{
+"who": "supervisor",
+"text": "Manager: save page 88, please."
+},
+{
+"who": "manager",
+"text": "Disk error!"
+},
+{
+"who": "supervisor",
+"text": "Try again?"
+},
+{
+"who": "manager",
+"text": "All good!"
+},
+{
+"who": "mira",
+"text": "Pages 43 to 50, please. I’ll keep working."
+}
+]
