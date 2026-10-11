@@ -26,7 +26,8 @@ series/
   pronunciation.json       regex -> spoken form for every episode
   music/                   the score library (cues, stingers, motifs) + meta.json loop lengths
   score/compose.py         how the library was composed (re-run only to add cues)
-  brand/                   avatar, banner, watermark, logo reference, brand.html (source of the images)
+  brand/                   brand kit: BRAND.md, channel.md, svg/ logos + banner, png/ exports, youtube/ uploads,
+                           templates/ (thumbnail, Short), source/ (generator + Lexend fonts)
 episodes/
   _template/               copied by tools/new_episode.py
   ep01-kitchen-that-never-forgets/   the reference episode
@@ -67,3 +68,9 @@ python3 tools/deliver.py episodes/ep02-.../build/PK-Explains-...-1080p.mp4   # t
 ```
 
 Rebuilding episode 1 from this repo reproduces the published film exactly (verified 2026-10-12).
+
+## Large files
+
+Finished masters (~200 MB each) are not kept in git. Attach them to a GitHub Release per episode
+(`gh release create ep01 PK-Explains-...-1080p.mp4`) or keep them in `~/Movies`. The Short (~5 MB) lives in
+`episodes/<ep>/release/short.mp4`.
